@@ -1,0 +1,1 @@
+# gsquash.fr

@@ -1,1 +1,1 @@
-[![CI status](https://github.com/guillaume-gambs/gsquash.fr/workflows/CI/badge.svg)](https://github.com/guillaume-gambs/gsquash.fr/actions?query=branch%3Amaster)
+[![CI to build github pages](https://github.com/guillaume-gambs/gsquash.fr/workflows/CI%20to%20build%20github%20pages/badge.svg)](https://github.com/guillaume-gambs/gsquash.fr/actions?query=branch%3Amaster)

@@ -33,6 +33,5 @@ jobs:
 
     - name: Create CNAME
       run: |
-        buildcommand
-        echo "www2.gsquash.fr">CNAME
+        echo "www2.gsquash.fr ">CNAME
 

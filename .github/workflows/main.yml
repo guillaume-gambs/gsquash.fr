@@ -19,7 +19,8 @@ jobs:
         hugo-version: 'latest'
  
     - name: Build
-      run: hugo --minify
+#      run: hugo --minify
+      run: hugo 
 
     - name: Deploy to GH-Pages
       uses: peaceiris/actions-gh-pages@v2

@@ -1,12 +1,9 @@
 ---
 title: "Règlement G2SLigue"
 date: 2020-01-26T14:45:01+01:00
-draft: true
+draft: false
 ---
 
-# Règlement G2SLigue
-
-Règlement :
 
 * Tout membre de l'association G.Squash et B2S peut participer au championnat annuel loisirs s'il le souhaite (pour les autres associations, contactez l'association).
 * Une cotisation de 5€ est demandé pour les joueurs hors G.Squash

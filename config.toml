@@ -2,7 +2,7 @@
 # provide your domain here
 baseURL = "https://gsquash.fr/"
 # theme
-theme = "Dot"
+theme = "dot"
 # site title
 title = "Gsquash"
 # disable language

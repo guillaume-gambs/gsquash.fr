@@ -1,7 +1,7 @@
 ---
 title: "Inscription 2019-2020"
 date: 2020-01-26T13:44:13+01:00
-draft: true
+draft: false
 ---
 
 La Gligue évolue est devient la G2SLigue !

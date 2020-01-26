@@ -1,7 +1,7 @@
 ---
 title: "Classement G2S Ligue 2019/2020"
 date: 2020-01-26T13:44:13+01:00
-draft: true
+draft: false
 tags:        [ "g2sligue", "#gligue" ]
 
 ---

@@ -3,6 +3,7 @@ on:
   push:
     branches: 
       - master
+PUBLISH_BRANCH: gh-pages  # deploying branch
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
@@ -32,5 +33,6 @@ jobs:
 
     - name: Create CNAME
       run: |
+        buildcommand
         echo "www2.gsquash.fr">CNAME
 

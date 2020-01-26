@@ -1,0 +1,15 @@
+name: CI to build github pages
+on: 
+  push:
+    branches: 
+      - master
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+      with:
+        submodules: true
+
+    - name: Setup Hugo
+      uses: srt32/hugo-action@v0.0.3

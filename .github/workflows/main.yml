@@ -7,9 +7,17 @@ jobs:
   build-deploy:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
+
+    - name: Checkout project
+      uses: actions/checkout@v1
       with:
         submodules: true
 
     - name: Setup Hugo
       uses: srt32/hugo-action@v0.0.3
+
+    - name: Build
+      run: hugo --minify
+
+    - name: Deploy to GH-Pages
+      uses: peaceiris/actions-gh-pages@v2

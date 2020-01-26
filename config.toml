@@ -98,7 +98,7 @@ hasChildren = true
   [[menu.main]]
   parent = "G2S Ligue"
   name = "Inscription"
-  url = "g2sligue/registration.md"
+  url = "g2sligue/registration"
   weight = 3
 
 ################################### French Language ######################

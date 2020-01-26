@@ -1,7 +1,8 @@
 ---
 title: "Registration"
 date: 2020-01-25T21:04:01+01:00
-draft: true
+lastmod: 2020-01-25T10:42:26+06:00
+draft: false
 ---
 
 <p>La fiche d'inscription d'adhésion à l'association pour la saison 2018/2019 est disponible.</p>

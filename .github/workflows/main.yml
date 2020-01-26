@@ -26,9 +26,11 @@ jobs:
 
     - name: Create CNAME
       run: |
-        echo "www2.gsquash.fr ">CNAME
+        echo "www2.gsquash.fr ">./public/CNAME
         ls -latr
+        ls -latr public
         pwd
+	tree
 
     - name: Deploy to GH-Pages
       uses: peaceiris/actions-gh-pages@v2

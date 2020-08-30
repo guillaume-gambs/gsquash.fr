@@ -15,6 +15,4 @@ Bonne saison à tous et au plaisir de se croiser au détour d'une poule !
 
 Gaëtan
 
-
 {{< gdocs height="1200" width="640"  src="https://docs.google.com/forms/d/e/1FAIpQLSfayWDVL0D92ByHAc9lKkUdBouZ8Xgg3aKYa0OuIw2yXO8TfQ/viewform?embedded=true"  >}}
-

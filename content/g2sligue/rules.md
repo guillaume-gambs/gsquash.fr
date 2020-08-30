@@ -15,4 +15,3 @@ draft: false
 * Le gagnant envoie les résultats de la rencontre à l'adresse : gligue@gsquash.fr. Les classements sont visibles en direct.
 
 N.B. : La réservation des courts pour les rencontres est à la charge des joueurs.
-

@@ -9,6 +9,7 @@ title = "Gsquash"
 disableLanguages = []
 #languageCode = "fr-fr"
 defaultContentLanguage = "fr"
+googleAnalytics = "UA-176702980-1"
 ############################# Default Parameters ##########################
 [params]
 # logo is for all page
@@ -107,7 +108,7 @@ languageName = "Fr"
 languageCode = "fr-fr"
 weight = 2
 home = "Accueil"
-copyright = "Ce site est généré avec Hugo v{{ .Site.Hugo.Version }}. Avec le theme Dot."
+#copyright = "Ce site est généré avec Hugo v{{ .Site.Hugo.Version }}. Avec le theme Dot."
 
 # banner
 [Languages.fr.params.banner]

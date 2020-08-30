@@ -40,8 +40,26 @@ link = "https://www.facebook.com/groups/802185466472789/"
 ################################# navigation ################################
 [[menu.main]]
 name = "Association"
-url = "association"
 weight = 1
+hasChildren = true
+#
+  [[menu.main]]
+  parent = "Association"
+  name = "Bureau"
+  url = "association/bureau"
+  weight = 1
+
+  [[menu.main]]
+  parent = "Association"
+  name = "Calendrier"
+  url = "association/calendrier"
+  weight = 2
+
+  [[menu.main]]
+  parent = "Association"
+  name = "Cordage"
+  url = "association/cordage"
+  weight = 3
 
 [[menu.main]]
 name = "Loisir"

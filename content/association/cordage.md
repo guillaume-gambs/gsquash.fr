@@ -3,6 +3,8 @@ title: "Cordage"
 date: 2020-08-30T21:54:52+02:00
 draft: false
 tags: ["cordage", "association"]
+type : "docs"
+description: "Information sur le cordage"
 ---
 
 Service Cordage

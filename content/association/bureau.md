@@ -2,6 +2,9 @@
 title: "Bureau"
 date: 2020-08-30T21:49:48+02:00
 draft: false
+type : "docs"
+description: "Introduction de la vie de l'association"
+
 
 ---
 L'association G.Squash a vu le jour le _15 mai 2014_.
@@ -18,7 +21,7 @@ Le prix d'une session de 1h30 est de _10 euros par personne (court compris)_. Ch
 
 ### Entrainements individuels
 
-L'association permet également d'accéder à des séances individuelles, encadrées par un des entraineurs diplomés de l'association. Ces séances permettent de rapidement évoluer dans le jeu du Squash.&nbsp;
+L'association permet également d'accéder à des séances individuelles, encadrées par un des entraineurs diplomés de l'association. Ces séances permettent de rapidement évoluer dans le jeu du Squash.
 
 Celles-ci ont une durée de 45mn. Le prix est de _10 euros la séance_, et un ticket de Squash correspondant à la location du court pour une séance (à délivrer au club).
 
@@ -42,7 +45,7 @@ Une annonce sera faite lors de l'ouverture des inscriptions.
 
 ### Compétition
 
-L'association donne accès à la compétition à celles et ceux qui désirent se frotter au gratin régional et national.&nbsp;
+L'association donne accès à la compétition à celles et ceux qui désirent se frotter au gratin régional et national.
 
 Il est possible de participer à des _tournois individuels_ (référencés à la Fédération Française de Squash), mais également de participer aux _championnat régionaux de la ligue Rhone-Alpes-Auvergne par équipes_.
 
@@ -51,11 +54,11 @@ Lors de cette saison 2017/2018, 4 équipes sont inscrites (GIERES 1F en Régiona
 _G.Squash est double champion départementale, titre remis en jeu cette saison !_
 
 <hr />
-&nbsp;
+
 
 <h1><em>_Membres du bureau :_</em></h1>
 
-&nbsp;
+
 
 <table border="1" cellpadding="1" cellspacing="1" style="width:844px">
 	<tbody>
@@ -63,24 +66,24 @@ _G.Squash est double champion départementale, titre remis en jeu cette saison !
 			<td style="width:300px">
 			<p style="text-align:center"><img alt="" height="150" src="/sites/default/files//media/Tof.JPG" width="150" />
 
-			<p class="rtecenter"><em>_Président_</em>&nbsp;: Christophe Spinello
+			<p class="rtecenter"><em>_Président_</em>: Christophe Spinello
 			</td>
 			<td style="width:245px">
 			<p class="rtecenter"><img alt="" height="150" src="/sites/default/files//media/ArnaudC.png" width="189" />
 
-			<p class="rtecenter">&nbsp;<em>_Trésorier_</em>&nbsp;: Arnaud Chauvière
+			<p class="rtecenter"><em>_Trésorier_</em>: Arnaud Chauvière
 			</td>
 			<td style="width:301px">
 			<p class="rtecenter"><img alt="" height="150" src="/sites/default/files//media/Gaetan.png" width="150" />
 
-			<p class="rtecenter">&nbsp;_<em>Secrétaire</em>_&nbsp;: Gaetan Pluton
+			<p class="rtecenter">_<em>Secrétaire</em>_: Gaetan Pluton
 			</td>
 		</tr>
 		<tr>
 			<td style="width:300px">
 			<p style="text-align:center"><img alt="" height="150" src="/sites/default/files//media/Jeff.JPG" width="150" />
 
-			<p class="rtecenter"><em>_Trésorier Adjoint_</em>&nbsp;: Jeff Dupuis&nbsp;
+			<p class="rtecenter"><em>_Trésorier Adjoint_</em>: Jeff Dupuis
 			</td>
 			<td style="width:245px">
 			<p class="rtecenter"><img alt="" height="150" src="/sites/default/files//media/Jenn.png" width="150" />
@@ -97,18 +100,18 @@ _G.Squash est double champion départementale, titre remis en jeu cette saison !
 			<td style="width:300px">
 			<p style="text-align:center"><img alt="" height="150" src="/sites/default/files//media/Sonia.png" width="150" />
 
-			<p class="rtecenter"><em>_Commission Médias_</em>&nbsp;: Sonia Selmi
+			<p class="rtecenter"><em>_Commission Médias_</em>: Sonia Selmi
 			</td>
-			<td style="width:245px">&nbsp;</td>
+			<td style="width:245px"></td>
 			<td style="width:301px">
 			<p style="text-align:center"><img alt="" height="150" src="/sites/default/files//media/Rachel.png" width="150" />
 
-			<p class="rtecenter"><em>_Commission Sponsoring&nbsp;_</em>&nbsp;: Rachel Basset
+			<p class="rtecenter"><em>_Commission Sponsoring_</em>: Rachel Basset
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-<p class="rtecenter">&nbsp;
+<p class="rtecenter">
 
-Toute l'association ainsi que le club vous accueillera au Break Sportif d'Echirolles&nbsp;pour plusieurs animations et pour vous faire partager sa passion pour le Squash.
+Toute l'association ainsi que le club vous accueillera au Break Sportif d'Echirollespour plusieurs animations et pour vous faire partager sa passion pour le Squash.

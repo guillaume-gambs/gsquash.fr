@@ -16,20 +16,11 @@ _G.Squash est double champion départementale, titre remis en jeu cette saison !
 
 Toute l'association ainsi que le club vous accueillera au Break Sportif d'Echirolles pour plusieurs animations et pour vous faire partager sa passion pour le Squash.
 
-
 Voici maintenant une présentation des activités de l'association :
 
-## Activités de l'association
+## Championnat annuel loisirs "G2S Ligue"
 
-Championnat annuel loisirs (G2SLigue)
-
-Tout au long de la saison, tous les membres de l'association se confrontent pour remporter la G2SLigue !
-
-Toutes les informations ici.
-
-### Championnat annuel loisirs "G2S Ligue"
-
-Tout au long de la saison, tous les membres de l'association se confrontent pour remporter la G.Ligue !
+Tout au long de la saison, tous les membres de l'association se confrontent pour remporter la G2S.Ligue !
 
 N'hésitez pas a regarder le [reglement]({{< relref "g2sligue/rules" >}} "reglement")
 
@@ -58,7 +49,6 @@ Lors de cette saison 2020/2021, 23 équipes sont inscrites
 - [GIERES 3 en Départementale masculine]({{< relref "team/team_3" >}} "Gieres 3")
 
   _G.Squash est double champion départementale, une 3ieme pour cette année ?_
-
 
 ## Cordage
 

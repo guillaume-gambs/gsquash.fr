@@ -25,7 +25,7 @@ logo_white = ""
 # when logo is empty, it will shown your site title
 
 # customize color
-primary_color = "#02007e"
+primary_color = "#151515"
 body_color = "#f9f9f9"
 secondary_color = "#f9f9f9"
 text_color = "#636363"
@@ -152,7 +152,7 @@ home = "Accueil"
 [Languages.fr.params.banner]
 title = "Comment pouvons nous aider?"
 description = "Trouvez rapidement une page"
-bg_image = "images/banner.jpg"
+bg_image = "images/banner.png"
 placeholder = "Avoir une question? Il suffit de demander ici ou de saisir les termes"
 
 # call to action

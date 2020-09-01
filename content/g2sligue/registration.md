@@ -1,9 +1,9 @@
 ---
 title: "Inscription 2020-2021"
-date: 2020-09-01T21:00:00+01:00
+date: 2020-09-01T20:00:00+01:00
 draft: false
 tags: [ "g2sligue", "#gligue" ]
-type : "docs"
+type: "docs"
 description: "Inscription G2SLigue"
 ---
 

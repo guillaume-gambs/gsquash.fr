@@ -124,9 +124,15 @@ hasChildren = true
 
   [[menu.main]]
   parent = "G2S Ligue"
+  name = "Poule"
+  url = "g2sligue/poule"
+  weight = 3
+
+  [[menu.main]]
+  parent = "G2S Ligue"
   name = "Inscription"
   url = "g2sligue/registration"
-  weight = 3
+  weight = 4
 
 ################################### French Language ######################
 [Languages.fr]

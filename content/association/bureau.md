@@ -22,7 +22,7 @@ Voici maintenant une présentation des activités de l'association :
 
 Tout au long de la saison, tous les membres de l'association se confrontent pour remporter la G2S.Ligue !
 
-N'hésitez pas a regarder le [reglement]({{< relref "g2sligue/rules" >}} "reglement")
+N'hésitez pas à regarder le [réglement]({{< relref "g2sligue/rules" >}} "reglement"), [les poules]({{< relref "g2sligue/poule" >}} "poule") et [le classement]({{< relref "g2sligue/ranking" >}} "ranking")
 
 ## Soirée squash / Tournoi loisirs
 
@@ -54,7 +54,7 @@ Lors de cette saison 2020/2021, 23 équipes sont inscrites
 
 Le [service de cordage]({{< relref "association/cordage" >}} "Service Cordage") est toujours d'actualité : Merci de voir avec une personne de l'assoication ou directement avec Christophe Spinello pour réparer votre matériel ! (coût 25€)
 
-## Bureau
+## Le Bureau
 
 | Président                          | Trésorier                             | Secretaire                     | Capitaine G1  | Capitaine G2     | Capitaine F1   |
 |------------------------------------|---------------------------------------|--------------------------------|---------------|------------------|----------------|

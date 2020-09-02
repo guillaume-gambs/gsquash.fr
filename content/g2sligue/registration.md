@@ -7,13 +7,15 @@ type: "docs"
 description: "Inscription G2SLigue"
 ---
 
+## Inscription G2SLigue
+
 L'an passé la Gligue est devenu la G2SLigue, et avec succes malgrès le corona virus !
 
 Comme les autres années, cette ligue est ouverte aux squasheurs de toutes les associations !
 
 Il suffit d'être disponible pour faire 3 matches par mois.
 
-Cette année c'est ArnaudA qui se chargera de mettre a jours les resultats que vous enverrez à gligue@gsquash.fr
+Cette année c'est ArnaudA qui se chargera de mettre à jours les resultats que vous enverrez à gligue@gsquash.fr
 
 Afin de participer aux frais de fonctionnement, l'inscription est de 5€ pour l'année pour les personnes qui n'ont pas d'adhésion à G.Squash à remettre à Guillaume G. ou Gaëtan P.
 

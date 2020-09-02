@@ -20,7 +20,7 @@ Voici maintenant une présentation des activités de l'association :
 
 Tout au long de la saison, tous les membres de l'association se confrontent pour remporter la G2SLigue !
 
-N'hésitez pas a regarder le [reglement]({{< relref "g2sligue/rules" >}} "règlement")
+N'hésitez pas à regarder le [réglement]({{< relref "g2sligue/rules" >}} "réglement"), [les poules]({{< relref "g2sligue/poule" >}} "poule") et [le classement]({{< relref "g2sligue/ranking" >}} "ranking")
 
 ## Soirée squash / Tournoi loisirs
 
@@ -48,17 +48,17 @@ Lors de cette saison 2020/2021, 3 équipes sont inscrites
 
 Cette saison 2020-2021, nous avons la chance d'organiser 2 tournois au Brek sportif d'Echirolles :
 
-- le championnat de ligue 5ème série le 14 et 15 novembre 2020
+- Le championnat de ligue 5ème série le 14 et 15 novembre 2020
 
-- l'open des Gièrois le 27 et 28 février
+- L'open des Gièrois le 27 et 28 février 2021
 
 ## Cordage
 
-Le [service de cordage]({{< relref "association/cordage" >}} "Service Cordage") est toujours d'actualité : Merci de voir avec une personne de l'association ou directement avec Christophe Spinello pour réparer votre matériel ! (coût 25€)
+Le [service de cordage]({{< relref "association/cordage" >}} "Service Cordage") est toujours d'actualité : merci de voir avec une personne de l'association ou directement avec Christophe Spinello pour réparer votre matériel ! (coût 25€)
 
-## Bureau
+## Le Bureau
 
-| Président                          | Trésorier                             | Secretaire                     | Capitaine G1  | Capitaine G2     | Capitaine F1   |
+| Président                          | Trésorier                             | Secrétaire                     | Capitaine G1  | Capitaine G2     | Capitaine F1   |
 |------------------------------------|---------------------------------------|--------------------------------|---------------|------------------|----------------|
 | Gaëtan Pluton                      | Guillaume Gambs                       | Jenn Arabadjian-Steffen        | Laurent Braud | Arnaud Chauviere | Sonia          |
 | ![Gaëtan](../../images/Gaetan.png) | ![Guillaume](../../images/Guigui.png) | ![Jenn](../../images/Jenn.png) |               |                  |                |

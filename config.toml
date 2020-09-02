@@ -53,7 +53,7 @@ hasChildren = true
 #
   [[menu.main]]
   parent = "Association"
-  name = "Bureau"
+  name = "Informations Association "
   url = "association/bureau"
   weight = 1
 
@@ -88,19 +88,19 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Competition"
-  name = "Equipe 1 Régionale 2 Féminine"
+  name = "Régionale 2 Féminine"
   url = "team/team_0"
   weight = 2
 
   [[menu.main]]
   parent = "Competition"
-  name = "Equipe 1 Régionale 2 Masculine"
+  name = "Régionale 2 Masculine"
   url = "team/team_1"
   weight = 3
 
   [[menu.main]]
   parent = "Competition"
-  name = "Equipe 2 Régionale 3 Masculine"
+  name = "Régionale 3 Masculine"
   url = "team/team_2"
   weight = 4
 

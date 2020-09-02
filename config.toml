@@ -104,12 +104,6 @@ hasChildren = true
   url = "team/team_2"
   weight = 4
 
-  [[menu.main]]
-  parent = "Competition"
-  name = "Equipe 3 Départementale Masculine"
-  url = "team/team_3"
-  weight = 5
-
 # Dropdown menu
 [[menu.main]]
 weight = 3

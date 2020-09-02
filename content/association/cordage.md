@@ -7,14 +7,13 @@ type : "docs"
 description: "Information sur le cordage"
 ---
 
-Service Cordage
+## Service Cordage
 
 L'association G.Squash propose un service de cordage de votre raquette de squash.
 
 La machine utilisée est une STRINGER 8700 électronique.
 
-IMAGE machine_cordage.jpg
-![Machine a corder](../../images/machine_cordage.jpg)
+![Machine à corder](../../images/machine_cordage.jpg)
 
 Les cordages proposés sont :
 
@@ -22,11 +21,13 @@ Les cordages proposés sont :
 
 ![cordage](../../images/cordage-squash-tecnifibre-dnamx.jpg)
 
-Nouveau cordage sortie en Avril 2016, remplaçant du 305 plus dont il reprend les caractéristiques de jeu. Confort et durabilité. Un cordage qui ne demande aucun temps d'adaptation.
+Nouveau cordage Tecnifibre DNAMX 1.20mm sortie en Avril 2016, remplaçant du 305 plus dont il reprend les caractéristiques de jeu. Confort et durabilité. Un cordage qui ne demande aucun temps d'adaptation.
 
-Prix : *15 euros*
+- Prix du cordage : *15 euros*
 
-Coût de la pose : *10 euros*
+- Coût de la pose : *10 euros*
+
+- Total : *25 euros*
 
 Délai de pose : 48 heures.
 

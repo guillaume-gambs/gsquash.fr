@@ -69,6 +69,12 @@ hasChildren = true
   url = "association/cordage"
   weight = 3
 
+  [[menu.main]]
+  parent = "Association"
+  name = "Licence"
+  url = "association/licence"
+  weight = 3
+  
 # Dropdown menu
 [[menu.main]]
 name = "Loisir"

@@ -3,11 +3,10 @@ title: "Team Gieres 1"
 date: 2020-08-30T21:49:48+02:00
 draft: false
 #type : "docs"
-description: "Equipe Masculine 1"
+description: "Équipe Masculine 1"
 ---
 
-
-## Equipe
+## Équipe
 
 Nouvelle saison en Régional 2 !
 
@@ -21,7 +20,7 @@ Il y a fort à parier que le capitaine vise à accrocher une place en playoff ap
 
 - Bastien
 
-- Chris
+- Christophe
 
 - Mika
 

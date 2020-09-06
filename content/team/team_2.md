@@ -3,11 +3,10 @@ title: "Team Gieres 2"
 date: 2020-08-30T21:49:48+02:00
 draft: false
 #type : "docs"
-description: "Equipe Masculine 2"
+description: "Équipe Masculine 2"
 ---
 
-
-## Equipe
+## Équipe
 
 Nouvelle saison en Régional 3 !
 
@@ -15,10 +14,9 @@ Changement de capitanat cette saison suite à une saison 2019-2020 mouvementé p
 
 Encore merci à lui pour sa gestion de l'équipe malgrés les aléas (soyez rassuré, il reste le membre le plus actif du bureau de l'asso) !
 
-
 ## Les joueurs
 
-- Arnaud C (capitaine) 
+- Arnaud C (capitaine)
 
 - Arnaud A
 

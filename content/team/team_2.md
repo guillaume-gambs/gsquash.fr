@@ -24,11 +24,13 @@ Encore merci à lui pour sa gestion de l'équipe malgrés les aléas (soyez rass
 
 - Guillaume
 
+- Jeff
+
 - Jérémy
 
 - Laurent
 
-- Matthieu
+- Mathieu
 
 - Rolf
 

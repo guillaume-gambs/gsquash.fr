@@ -20,7 +20,7 @@ Dès que les dates seront connues, elles seront communiquées pour faire venir l
 
 - Emmanuelle
 
-- Aurélie (Lilie)
+- Lilie
 
 - Fanny
 

@@ -12,13 +12,13 @@ L'association G.Squash propose un service de cordage de votre raquette de squash
 
 La machine utilisée est une STRINGER 8700 électronique.
 
-![Machine à corder](../../images/machine_cordage.jpg)
+![Machine à corder](/images/machine_cordage.jpg)
 
 Les cordages proposés sont :
 
 *Tecnifibre DNAMX Gauge 1.20 (Noir)* :
 
-![cordage](../../images/cordage-squash-tecnifibre-dnamx.jpg)
+![cordage](/images/cordage-squash-tecnifibre-dnamx.jpg)
 
 Nouveau cordage Tecnifibre DNAMX 1.20mm sortie en Avril 2016, remplaçant du 305 plus dont il reprend les caractéristiques de jeu. Confort et durabilité. Un cordage qui ne demande aucun temps d'adaptation.
 

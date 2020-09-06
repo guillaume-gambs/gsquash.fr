@@ -59,7 +59,7 @@ Le [service de cordage]({{< relref "association/cordage" >}} "Service Cordage") 
 
 ## Le Bureau
 
-| Président                          | Trésorier                             | Secrétaire                     | Capitaine G1  | Capitaine G2     | Capitaine F1   |
-|------------------------------------|---------------------------------------|--------------------------------|---------------|------------------|----------------|
-| Gaëtan Pluton                      | Guillaume Gambs                       | Jenn Arabadjian-Steffen        | Laurent Braud | Arnaud Chauviere | Sonia          |
-| ![Gaëtan](../../images/Gaetan.png) | ![Guillaume](../../images/Guigui.png) | ![Jenn](../../images/Jenn.png) |               |                  |                |
+| Président                     | Trésorier                        | Secrétaire                | Capitaine G1  | Capitaine G2     | Capitaine F1   |
+|-------------------------------|----------------------------------|---------------------------|---------------|------------------|----------------|
+| Gaëtan Pluton                 | Guillaume Gambs                  | Jenn Arabadjian-Steffen   | Laurent Braud | Arnaud Chauviere | Sonia          |
+| ![Gaëtan](/images/Gaetan.png) | ![Guillaume](/images/Guigui.png) | ![Jenn](/images/Jenn.png) |               |                  |                |

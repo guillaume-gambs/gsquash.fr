@@ -3,20 +3,20 @@ title: "Régional 2 Féminine"
 date: 2020-08-30T21:49:48+02:00
 draft: false
 #type : "docs"
-description: "Equipe Feminine"
+description: "Équipe Feminine"
 ---
 
-## Equipe
+## Équipe
 
-Après une année sans équipe féminine, G.Squash repart cette saison !
+Après une année, sans équipe féminine, G.Squash repart cette saison !
 
-Dès que les dates seront connues, elles seront communiquées pour venir les supporter.
+Dès que les dates seront connues, elles seront communiquées pour faire venir les supporter.
 
 ## Les joueuses
 
 - Sonia (capitaine)
 
-- Colinne
+- Coline
 
 - Emmanuelle
 

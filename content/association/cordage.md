@@ -5,6 +5,7 @@ draft: false
 tags: ["cordage", "association"]
 type : "docs"
 description: "Information sur le cordage"
+icon: "ti-wand"
 ---
 
 L'association G.Squash propose un service de cordage de votre raquette de squash.

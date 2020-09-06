@@ -4,6 +4,7 @@ date: 2020-09-05T20:00:00+01:00
 draft: false
 tags: [ "soiree", "#Loisir" ]
 type: "docs"
+icon: "ti-calendar"
 description: "Inscription soirée squash"
 ---
 

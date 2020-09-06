@@ -1,9 +1,485 @@
-<!doctype html><html lang=fr-fr><head><meta charset=utf-8><title>Gsquash</title><meta name=generator content="Hugo 0.63.1"><meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1"><link rel=stylesheet href=https://gsquash.fr/plugins/bootstrap/bootstrap.min.css><link rel=stylesheet href=https://gsquash.fr/plugins/themify-icons/themify-icons.css><link rel=stylesheet href=https://gsquash.fr/plugins/highlight/hybrid.css><link rel=icon href=https://gsquash.fr/images/favicon.png type=image/x-icon><link href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap" rel=stylesheet><style>:root{--primary-color:#02007e;--secondary-color:#f9f9f9;--text-color:#636363;--text-color-dark:#242738;--white-color:#ffffff;--font-family:Lato}</style><link rel=stylesheet href=https://gsquash.fr/css/style.min.css media=screen><script src=https://gsquash.fr/plugins/jquery/jquery-1.12.4.js></script><script src=https://gsquash.fr/plugins/jquery/jquery-ui.js></script><script src=https://gsquash.fr/plugins/bootstrap/bootstrap.min.js></script><script src=https://gsquash.fr/plugins/match-height/jquery.matchHeight-min.js></script><script src=https://gsquash.fr/plugins/highlight/highlight.pack.js></script><script>hljs.initHighlightingOnLoad();</script></head><body><header class="hero-section overlay bg-cover banner" data-background=https://gsquash.fr/images/banner.jpg><div class="container mb-100"><nav class="navbar navbar-expand-md navbar-dark"><a class=navbar-brand href=/>Gsquash</a>
-<button class="navbar-toggler border-0" type=button data-toggle=collapse data-target=#navigation aria-controls=navigation aria-expanded=false aria-label="Toggle navigation">
-<span class=navbar-toggler-icon></span></button><div class="collapse navbar-collapse text-center" id=navigation><ul class="navbar-nav ml-auto"><li class=nav-item><a class="nav-link text-dark" href=/>Accueil</a></li><li class=nav-item><a class="nav-link text-dark" href=/association>Association</a></li><li class=nav-item><a class="nav-link text-dark" href=/loisir>Loisir</a></li><li class="nav-item dropdown"><a class="nav-link dropdown-toggle text-dark" href=# role=button data-toggle=dropdown aria-haspopup=true aria-expanded=false>Competition</a><div class=dropdown-menu><a class=dropdown-item href=/Competition>Compétition</a>
-<a class=dropdown-item href=/team_1>Equipe 1 Régionale 2</a>
-<a class=dropdown-item href=/team_2>Equipe 2 Régionale 3</a>
-<a class=dropdown-item href=/team_3>Equipe 3 Départementale</a></div></li><li class="nav-item dropdown"><a class="nav-link dropdown-toggle text-dark" href=# role=button data-toggle=dropdown aria-haspopup=true aria-expanded=false>G2S Ligue</a><div class=dropdown-menu><a class=dropdown-item href=/g2sligue/rules>Réglement</a>
-<a class=dropdown-item href=/g2sligue/ranking>Classement</a>
-<a class=dropdown-item href=/g2sligue/registration>Inscription</a></div></li></ul></div></nav></div><div class=container><div class=row><div class="col-lg-8 text-center mx-auto"><h1 class="text-white mb-3">Comment pouvons nous aider?</h1><p class="text-white mb-4">Trouvez rapidement une page</p><div class=position-relative><input id=search class=form-control placeholder="Avoir une question? Il suffit de demander ici ou de saisir les termes">
-<script>$(function(){var projects=[{value:"Categories",label:"Categories",url:"https:\/\/gsquash.fr\/categories\/"},{value:"Gsquash",label:"Gsquash",url:"https:\/\/gsquash.fr\/"},{value:"Tags",label:"Tags",url:"https:\/\/gsquash.fr\/tags\/"},];$("#search").autocomplete({minLength:0,source:projects,focus:function(event,ui){$("#search").val(ui.item.label);return false;},select:function(event,ui){$("#search").val(ui.item.label);$("#project-id").val(ui.item.value);return false;}}).data("ui-autocomplete")._renderItem=function(ul,item){return $("<li>").append("<a href="+item.url+" + \" &quot;\" +  >"+item.label+"</a>").appendTo(ul);};});</script></div></div></div></div></header><div id=content><section class="section bg-gray"><div class=container><div class="row justify-content-center"><div class="col-12 text-center"><h2 class=section-title></h2></div></div></div></section></div><footer class="section bg-gray pb-0"><div class=container><div class=row><div class="col-md-8 text-md-left text-center"><p>Les documents Hugo sont sous copyright © <a href=https://gethugothemes.com/>gethugothemes</a> 2020.</p></div><div class="col-md-4 text-md-right text-center"><ul class="list-inline mb-3"><li class=list-inline-item><a class="text-color d-inline-block p-2" href=https://www.facebook.com/groups/802185466472789/><i class=ti-facebook></i></a></li></ul></div></div></div></footer><script src=https://gsquash.fr/js/script.min.js></script></body></html>
+<!DOCTYPE html>
+<html lang="fr-fr">
+  <head>
+  <meta charset="utf-8">
+  <title>Gsquash</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="generator" content="Hugo 0.74.3" />
+  
+  <!-- ** CSS Plugins Needed for the Project ** -->
+  
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="https://www2.gsquash.fr/plugins/bootstrap/bootstrap.min.css">
+
+  <!-- themefy-icon -->
+  <link rel="stylesheet" href="https://www2.gsquash.fr/plugins/themify-icons/themify-icons.css">
+
+  <!--Favicon-->
+  <link rel="icon" href="https://www2.gsquash.fr/images/favicon.png" type="image/x-icon">
+
+  <!-- fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap" rel="stylesheet">
+  
+  <style>
+  :root{
+    --primary-color:#8B0000;
+    --body-color:#f9f9f9;
+    --text-color:#636363;
+    --text-color-dark:#242738;
+    --white-color:#ffffff;
+    --light-color:#f8f9fa;
+    --font-family:Lato;
+  }
+  </style>
+
+<!-- Main Stylesheet -->
+
+<link href="https://www2.gsquash.fr/css/style.min.css" rel="stylesheet" media="screen"/>
+  
+<!-- ** JS Plugins Needed for the Project ** -->
+
+<!-- jquiry -->
+<script src="https://www2.gsquash.fr/plugins/jquery/jquery-1.12.4.js"></script>
+
+<!-- jquary ui -->
+<script src="https://www2.gsquash.fr/plugins/jquery/jquery-ui.js"></script>
+
+<!-- Bootstrap JS -->
+<script src="https://www2.gsquash.fr/plugins/bootstrap/bootstrap.min.js"></script>
+
+<!-- match-height JS -->
+<script src="https://www2.gsquash.fr/plugins/match-height/jquery.matchHeight-min.js"></script>
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-176702980-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+
+</head>
+  
+  <body>
+    
+    <!-- header -->
+    <header class="banner overlay bg-cover" data-background="https://www2.gsquash.fr/images/banner.png">
+      <nav class="navbar navbar-expand-md navbar-dark">
+  <div class="container">
+    <a class="navbar-brand px-2" href="/">
+      
+      
+      
+      Gsquash
+      
+    </a>
+    <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation"
+      aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse text-center" id="navigation">
+      <ul class="navbar-nav ml-auto">
+        
+        
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle text-dark" href="#" role="button" data-toggle="dropdown"
+            aria-haspopup="true" aria-expanded="false">
+            Association
+          </a>
+          <div class="dropdown-menu">
+            
+            <a class="dropdown-item" href="/association/bureau">Informations Association </a>
+            
+            <a class="dropdown-item" href="/association/calendrier">Calendrier</a>
+            
+            <a class="dropdown-item" href="/association/cordage">Cordage</a>
+            
+            <a class="dropdown-item" href="/association/licence">Licence</a>
+            
+          </div>
+        </li>
+        
+        
+        
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle text-dark" href="#" role="button" data-toggle="dropdown"
+            aria-haspopup="true" aria-expanded="false">
+            Loisir
+          </a>
+          <div class="dropdown-menu">
+            
+            <a class="dropdown-item" href="/loisir/soiree-30-09">Soirée squash 30/09/20</a>
+            
+          </div>
+        </li>
+        
+        
+        
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle text-dark" href="#" role="button" data-toggle="dropdown"
+            aria-haspopup="true" aria-expanded="false">
+            Competition
+          </a>
+          <div class="dropdown-menu">
+            
+            <a class="dropdown-item" href="/team/team_0">Régionale 2 Féminine</a>
+            
+            <a class="dropdown-item" href="/team/team_1">Régionale 2 Masculine</a>
+            
+            <a class="dropdown-item" href="/team/team_2">Régionale 3 Masculine</a>
+            
+          </div>
+        </li>
+        
+        
+        
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle text-dark" href="#" role="button" data-toggle="dropdown"
+            aria-haspopup="true" aria-expanded="false">
+            G2S Ligue
+          </a>
+          <div class="dropdown-menu">
+            
+            <a class="dropdown-item" href="/g2sligue/rules">Réglement</a>
+            
+            <a class="dropdown-item" href="/g2sligue/ranking">Classement</a>
+            
+            <a class="dropdown-item" href="/g2sligue/poule">Poule</a>
+            
+            <a class="dropdown-item" href="/g2sligue/registration">Inscription</a>
+            
+          </div>
+        </li>
+        
+        
+      </ul>
+      
+    </div>
+  </div>
+</nav>
+      <!-- banner -->
+<div class="container section">
+	<div class="row">
+		<div class="col-lg-8 text-center mx-auto">
+			<h1 class="text-white mb-3">Comment pouvons nous aider?</h1>
+			<p class="text-white mb-4"></p>
+			<div class="position-relative">
+				<input id="search" class="form-control" placeholder="Avoir une question? Il suffit de demander ici ou de saisir les termes">
+				<i class="ti-search search-icon"></i>
+				
+				
+				
+				
+				<script>
+					$(function() {
+					var projects = [
+						
+						{
+							value: "#Loisir",
+							label: "<p></p>",
+							url:"https:\/\/www2.gsquash.fr\/tags\/#loisir\/"
+						},
+						
+						{
+							value: "Gsquash",
+							label: "<p></p>",
+							url:"https:\/\/www2.gsquash.fr\/"
+						},
+						
+						{
+							value: "Inscription Soirée squash 30\/09\/2020",
+							label: "<p>La première soirée de l\u0026rsquo;année a eu lieu 30\/09\/2020 à 19h45 au Break Sportif !\nLa formule de la soirée vous sera expliquée le jour J.\nMerci d\u0026rsquo;être présent en tenu quelques minutes avant 19h45.\nPrix de la soirée : 5€\nInscrivez vous:\n  </p>",
+							url:"https:\/\/www2.gsquash.fr\/loisir\/soiree-30-09\/"
+						},
+						
+						{
+							value: "Loisirs",
+							label: "<p></p>",
+							url:"https:\/\/www2.gsquash.fr\/loisir\/"
+						},
+						
+						{
+							value: "soiree",
+							label: "<p></p>",
+							url:"https:\/\/www2.gsquash.fr\/tags\/soiree\/"
+						},
+						
+						{
+							value: "Tags",
+							label: "<p></p>",
+							url:"https:\/\/www2.gsquash.fr\/tags\/"
+						},
+						
+						{
+							value: "#gligue",
+							label: "<p></p>",
+							url:"https:\/\/www2.gsquash.fr\/tags\/#gligue\/"
+						},
+						
+						{
+							value: "g2sligue",
+							label: "<p></p>",
+							url:"https:\/\/www2.gsquash.fr\/tags\/g2sligue\/"
+						},
+						
+						{
+							value: "G2sligues",
+							label: "<p></p>",
+							url:"https:\/\/www2.gsquash.fr\/g2sligue\/"
+						},
+						
+						{
+							value: "Inscription G2Sligue",
+							label: "<p>Inscription G2SLigue L\u0026rsquo;an passé la Gligue est devenu la G2SLigue, et avec succes malgrès le corona virus !\nComme les autres années, cette ligue est ouverte aux squasheurs de toutes les associations !\nIl suffit d\u0026rsquo;être disponible pour faire 3 matches par mois.\nCette année c\u0026rsquo;est ArnaudA qui se chargera de mettre à jours les resultats que vous enverrez à gligue@gsquash.fr\nAfin de participer aux frais de fonctionnement, l\u0026rsquo;inscription est de 5€ pour l\u0026rsquo;année pour les personnes qui n\u0026rsquo;ont pas d\u0026rsquo;adhésion à G.Squash à remettre à Guillaume G. ou Gaëtan P.\nBonne saison à tous et au plaisir de se croiser au détour d\u0026rsquo;une poule !\nArnaud \u0026amp; Gaëtan \u0026amp; Guillaume\n  </p>",
+							url:"https:\/\/www2.gsquash.fr\/g2sligue\/registration\/"
+						},
+						
+						{
+							value: "Classement G2S Ligue 2020\/2021",
+							label: "<p>Les résultats des rencontres sont à envoyer à gligue@gsquash.fr\nRencontres   Classement du mois   Classement annuel   </p>",
+							url:"https:\/\/www2.gsquash.fr\/g2sligue\/ranking\/"
+						},
+						
+						{
+							value: "poule",
+							label: "<p></p>",
+							url:"https:\/\/www2.gsquash.fr\/tags\/poule\/"
+						},
+						
+						{
+							value: "Poule G2S Ligue 2020\/2021",
+							label: "<p>Les résultats des rencontres sont à envoyer à gligue@gsquash.fr\nRencontres Voici les poules du mois\n  </p>",
+							url:"https:\/\/www2.gsquash.fr\/g2sligue\/poule\/"
+						},
+						
+						{
+							value: "association",
+							label: "<p></p>",
+							url:"https:\/\/www2.gsquash.fr\/tags\/association\/"
+						},
+						
+						{
+							value: "Associations",
+							label: "<p></p>",
+							url:"https:\/\/www2.gsquash.fr\/association\/"
+						},
+						
+						{
+							value: "cordage",
+							label: "<p></p>",
+							url:"https:\/\/www2.gsquash.fr\/tags\/cordage\/"
+						},
+						
+						{
+							value: "Licence",
+							label: "<p>La fédération a simplifié les modalités de renouvellement de licence.\nCelle-ci se fait directement sur l\u0026rsquo;extranet de la fédération\n  Connectez vous avec votre identifiant et mot de passe reçu l\u0026rsquo;année dernière (vous pouvez le redemander si vous l\u0026rsquo;avez perdu)\n  Sélectionnez le renouvellement d\u0026rsquo;une licence fédérale\n  Si vous avez un certificat médical de moins de 3 ans, vous n\u0026rsquo;avez pas besoin de nouveau si vous répondez non à toutes les questions de ce document en pièce jointe (ça vous sera demandé lors de l\u0026rsquo;enregistrement)\n  Payez en ligne votre adhésion qui correspond à la licence \u002b à la cotisation de l\u0026rsquo;association\n  C\u0026rsquo;est terminé, Enjoy !\n  Prenez l\u0026rsquo;assurance par défaut (quelques centimes) car sinon, il faut ajouter une étape de plus avec un document scanné à envoyer à la fédération\n Si vous avez un problème ou une nouvelle licence merci de prendre contact avec Gaëtan\n</p>",
+							url:"https:\/\/www2.gsquash.fr\/association\/licence\/"
+						},
+						
+						{
+							value: "licence",
+							label: "<p></p>",
+							url:"https:\/\/www2.gsquash.fr\/tags\/licence\/"
+						},
+						
+						{
+							value: "Service cordage",
+							label: "<p>L\u0026rsquo;association G.Squash propose un service de cordage de votre raquette de squash.\nLa machine utilisée est une STRINGER 8700 électronique.\nLes cordages proposés sont :\nTecnifibre DNAMX Gauge 1.20 (Noir) :\nNouveau cordage Tecnifibre DNAMX 1.20mm sortie en Avril 2016, remplaçant du 305 plus dont il reprend les caractéristiques de jeu. Confort et durabilité. Un cordage qui ne demande aucun temps d\u0026rsquo;adaptation.\n  Prix du cordage : 15 euros\n  Coût de la pose : 10 euros\n  Total : 25 euros\n  Délai de pose : 48 heures.\nEnvoyer un mail à contact@gsquash.fr pour spécifier la tension désirée. Merci de faire passer la raquette à un membre de l\u0026rsquo;association.\n</p>",
+							url:"https:\/\/www2.gsquash.fr\/association\/cordage\/"
+						},
+						
+						{
+							value: "calendrier",
+							label: "<p></p>",
+							url:"https:\/\/www2.gsquash.fr\/tags\/calendrier\/"
+						},
+						
+						{
+							value: "Calendrier Gsquash",
+							label: "<p>Retrouvez les dates clés de l\u0026rsquo;association.\n  Pour importer coller les urls :\n Gieres 1 :  https:\/\/calendar.google.com\/calendar\/ical\/386d7pevhjut60sj2nv0k1gr4k%40group.calendar.google.com\/public\/basic.ics  Gieres 2 :  https:\/\/calendar.google.com\/calendar\/ical\/o98l9lenbgu7bja48tf1nthukc%40group.calendar.google.com\/public\/basic.ics </p>",
+							url:"https:\/\/www2.gsquash.fr\/association\/calendrier\/"
+						},
+						
+						{
+							value: "evenements",
+							label: "<p></p>",
+							url:"https:\/\/www2.gsquash.fr\/tags\/evenements\/"
+						},
+						
+						{
+							value: "Informations Association",
+							label: "<p>L\u0026rsquo;association G.Squash a vu le jour le 15 mai 2014.\nCette association initialement basée au Squash Club de Gières, et a vu par le passé quelques déménagement, est basée maintenant au Break Sportif d\u0026rsquo;Echirolles.\nActivités de l\u0026rsquo;association Toute l\u0026rsquo;association ainsi que le club vous accueillera au Break Sportif d\u0026rsquo;Echirolles pour plusieurs animations et pour vous faire partager sa passion pour le Squash.\nVoici maintenant une présentation des activités de l\u0026rsquo;association :\nChampionnat annuel loisirs \u0026ldquo;G2S Ligue\u0026rdquo; Tout au long de la saison, tous les membres de l\u0026rsquo;association se confrontent pour remporter la G2SLigue !\nN\u0026rsquo;hésitez pas à regarder le réglement, les poules et le classement\nSoirée squash \/ Tournoi loisirs Ponctuellement des soirées squash sont organisées afin de se retrouver dans un climat amical et sportif avec des formules permettant de rencontrer un grand nombre de personnes autour de \u0026ldquo;formules squash\u0026rdquo; différentes selon l\u0026rsquo;organisateur.\nQuelques tournois loisirs seront organisés lors de la saison 2020\/2021.\nUne annonce sera faite lors de l\u0026rsquo;ouverture des inscriptions.\nCompétition L\u0026rsquo;association donne accès à la compétition à celles et ceux qui désirent se frotter au gratin régional et national.\nIl est possible de participer à des tournois individuels (référencés à la Fédération Française de Squash), mais également de participer aux championnat régionaux de la ligue Rhone-Alpes-Auvergne par équipes.\nLors de cette saison 2020\/2021, 3 équipes sont inscrites\n  Régionale 2 féminine\n  Régionale 2 masculine\n  Régionale 3 masculine\n  Organisation Tournois officiels Cette saison 2020-2021, nous avons la chance d\u0026rsquo;organiser 2 tournois au Brek sportif d\u0026rsquo;Echirolles :\n  Le championnat de ligue 5ème série le 14 et 15 novembre 2020\n  L\u0026rsquo;open des Gièrois le 27 et 28 février 2021\n  Cordage Le service de cordage est toujours d\u0026rsquo;actualité : merci de voir avec une personne de l\u0026rsquo;association ou directement avec Christophe Spinello pour réparer votre matériel ! (coût 25€)\nLe Bureau    Président Trésorier Secrétaire Capitaine G1 Capitaine G2 Capitaine F1     Gaëtan Pluton Guillaume Gambs Jenn Arabadjian-Steffen Laurent Braud Arnaud Chauviere Sonia            </p>",
+							url:"https:\/\/www2.gsquash.fr\/association\/bureau\/"
+						},
+						
+						{
+							value: "Régional 2 Féminine",
+							label: "<p>Équipe Après une année, sans équipe féminine, G.Squash repart cette saison !\nDès que les dates seront connues, elles seront communiquées pour faire venir les supporter.\nLes joueuses   Sonia (capitaine)\n  Coline\n  Emmanuelle\n  Lilie\n  Fanny\n  Nous avons la chance d\u0026rsquo;avoir 2 recrues venant en renfort !\nBonne saison à toutes !\n</p>",
+							url:"https:\/\/www2.gsquash.fr\/team\/team_0\/"
+						},
+						
+						{
+							value: "Team Gieres 1",
+							label: "<p>Équipe Nouvelle saison en Régional 2 !\nIl y a fort à parier que le capitaine vise à accrocher une place en playoff après la saison 2019-2020 stoppée alors que l\u0026rsquo;équipe était en 2nde place !\nLes joueurs   Laurent (capitaine) dit Capapylolo\n  Arnaud D\n  Bastien\n  Christophe\n  Mika\n  Nicolas\n  Ils pourront compter sur les supporters et aussi sur des renforts (en tout cas des joueurs motivés) de l\u0026rsquo;équipe 2 homme si besoin !\nBonne saison à tous !\n</p>",
+							url:"https:\/\/www2.gsquash.fr\/team\/team_1\/"
+						},
+						
+						{
+							value: "Team Gieres 2",
+							label: "<p>Équipe Nouvelle saison en Régional 3 !\nChangement de capitanat cette saison suite à une saison 2019-2020 mouvementé pour notre Guigui !\nEncore merci à lui pour sa gestion de l\u0026rsquo;équipe malgrés les aléas (soyez rassuré, il reste le membre le plus actif du bureau de l\u0026rsquo;asso) !\nLes joueurs   Arnaud C (capitaine)\n  Arnaud A\n  Gaëtan\n  Guillaume\n  Jeff\n  Jérémy\n  Laurent\n  Mathieu\n  Rolf\n  Sébastien\n  Bonne saison à tous !\n</p>",
+							url:"https:\/\/www2.gsquash.fr\/team\/team_2\/"
+						},
+						
+						{
+							value: "Teams",
+							label: "<p></p>",
+							url:"https:\/\/www2.gsquash.fr\/team\/"
+						},
+						
+						{
+							value: "Réglement G2SLigue",
+							label: "<p>Réglement G2SLigue   Tout membre de l\u0026rsquo;association G.Squash et B2S peut participer au championnat annuel loisirs s\u0026rsquo;il le souhaite (pour les autres associations, contactez l\u0026rsquo;association).\n  Une cotisation de 5€ est demandé pour les joueurs hors G.Squash\n  Ce championnat se déroule par poules de 4 joueuses\/joueurs (chaque joueuse\/joueur rencontre tous les autres joueuses\/joueurs de sa poule). Cela représente 3 rencontres à jouer chaque mois.\n  Les poules se renouvellent chaque mois (Redistribution des poules le 1er de chaque mois).\n  Chaque rencontre se déroule au meilleur des 5 jeux.\n  Lors d\u0026rsquo;une rencontre joueuse\/joueur, la ou le joueuse\/joueur ne marque le point que sur son service.\n  Le ou la gagnant⋅e marque 2 points au classement. Le ou la perdant⋅e marque 1 point. La personne n\u0026rsquo;ayant pas joué sa rencontre marque 0 point.\n  Le ou la gagnant⋅e envoie les résultats de la rencontre à l\u0026rsquo;adresse : gligue@gsquash.fr.\n  Les classements sont visibles en direct.\n  N.B. : La réservation des courts pour les rencontres est à la charge des joueurs.\n</p>",
+							url:"https:\/\/www2.gsquash.fr\/g2sligue\/rules\/"
+						},
+						
+						{
+							value: "Categories",
+							label: "<p></p>",
+							url:"https:\/\/www2.gsquash.fr\/categories\/"
+						},
+						
+					];
+					$( "#search" ).autocomplete({
+						source: projects
+					})
+					.data( "ui-autocomplete" )._renderItem = function( ul, item ) {
+						return $( "<li>" )
+						.append( "<a href=" + item.url + " + \" &quot;\" +  >" + item.value + "</a>" + item.label )
+						.appendTo( ul );
+					};
+					});
+				</script>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- /banner -->
+    </header>
+    <!-- /header -->
+    
+    
+
+  <!-- topics -->
+  <section class="section">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-12 text-center">
+          <h2 class="section-title"></h2>
+        </div>
+        <!-- topic-item -->
+        
+        <div class="col-lg-4 col-sm-6 mb-4">
+          <a href="https://www2.gsquash.fr/loisir/soiree-30-09/" class="px-4 py-5 bg-white shadow text-center d-block match-height">
+            <i class="ti-calendar icon text-primary d-block mb-4"></i>
+            <h3 class="mb-3 mt-0">Inscription Soirée squash 30/09/2020</h3>
+            <p class="mb-0">Inscription soirée squash</p>
+          </a>
+        </div>
+        
+        <div class="col-lg-4 col-sm-6 mb-4">
+          <a href="https://www2.gsquash.fr/g2sligue/registration/" class="px-4 py-5 bg-white shadow text-center d-block match-height">
+            <i class="ti-calendar icon text-primary d-block mb-4"></i>
+            <h3 class="mb-3 mt-0">Inscription G2Sligue</h3>
+            <p class="mb-0">Inscription 2020-2021</p>
+          </a>
+        </div>
+        
+        <div class="col-lg-4 col-sm-6 mb-4">
+          <a href="https://www2.gsquash.fr/g2sligue/ranking/" class="px-4 py-5 bg-white shadow text-center d-block match-height">
+            <i class="ti-cup icon text-primary d-block mb-4"></i>
+            <h3 class="mb-3 mt-0">Classement G2S Ligue 2020/2021</h3>
+            <p class="mb-0">Résultats de la G2SLigue</p>
+          </a>
+        </div>
+        
+        <div class="col-lg-4 col-sm-6 mb-4">
+          <a href="https://www2.gsquash.fr/g2sligue/poule/" class="px-4 py-5 bg-white shadow text-center d-block match-height">
+            <i class="ti-control-play icon text-primary d-block mb-4"></i>
+            <h3 class="mb-3 mt-0">Poule G2S Ligue 2020/2021</h3>
+            <p class="mb-0">La Poule du mois de la G2SLigue</p>
+          </a>
+        </div>
+        
+        <div class="col-lg-4 col-sm-6 mb-4">
+          <a href="https://www2.gsquash.fr/association/licence/" class="px-4 py-5 bg-white shadow text-center d-block match-height">
+            <i class="ti-wand icon text-primary d-block mb-4"></i>
+            <h3 class="mb-3 mt-0">Licence</h3>
+            <p class="mb-0">Comment créer ou renouveller sa licence</p>
+          </a>
+        </div>
+        
+        <div class="col-lg-4 col-sm-6 mb-4">
+          <a href="https://www2.gsquash.fr/association/cordage/" class="px-4 py-5 bg-white shadow text-center d-block match-height">
+            <i class="ti-wand icon text-primary d-block mb-4"></i>
+            <h3 class="mb-3 mt-0">Service cordage</h3>
+            <p class="mb-0">Information sur le cordage</p>
+          </a>
+        </div>
+        
+        <div class="col-lg-4 col-sm-6 mb-4">
+          <a href="https://www2.gsquash.fr/association/calendrier/" class="px-4 py-5 bg-white shadow text-center d-block match-height">
+            <i class="ti-agenda icon text-primary d-block mb-4"></i>
+            <h3 class="mb-3 mt-0">Calendrier Gsquash</h3>
+            <p class="mb-0">Retrouvez ici les evenements Gsquash</p>
+          </a>
+        </div>
+        
+        <div class="col-lg-4 col-sm-6 mb-4">
+          <a href="https://www2.gsquash.fr/association/bureau/" class="px-4 py-5 bg-white shadow text-center d-block match-height">
+            <i class="ti-world icon text-primary d-block mb-4"></i>
+            <h3 class="mb-3 mt-0">Informations Association</h3>
+            <p class="mb-0">Introduction de la vie de l&#39;association</p>
+          </a>
+        </div>
+        
+      </div>
+    </div>
+  </section>
+  <!-- /topics -->
+
+  
+
+
+    <!-- footer -->
+<footer class="section pb-4">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-md-8 text-md-left text-center">
+       <p class="mb-md-0 mb-4"></p>
+      </div>
+      <div class="col-md-4 text-md-right text-center">
+        <ul class="list-inline">
+          
+          <li class="list-inline-item"><a class="text-color d-inline-block p-2" href="https://www.facebook.com/groups/802185466472789/"><i class="ti-facebook"></i></a></li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- /footer -->
+
+<!-- Main Script -->
+
+<script src="https://www2.gsquash.fr/js/script.min.js"></script>
+  </body>
+
+</html>

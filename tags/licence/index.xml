@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>licence on Gsquash</title>
+    <link>https://www2.gsquash.fr/tags/licence/</link>
+    <description>Recent content in licence on Gsquash</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 30 Aug 2020 21:54:52 +0200</lastBuildDate>
+    
+	<atom:link href="https://www2.gsquash.fr/tags/licence/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Licence</title>
+      <link>https://www2.gsquash.fr/association/licence/</link>
+      <pubDate>Sun, 30 Aug 2020 21:54:52 +0200</pubDate>
+      
+      <guid>https://www2.gsquash.fr/association/licence/</guid>
+      <description>La fédération a simplifié les modalités de renouvellement de licence.
+Celle-ci se fait directement sur l&amp;rsquo;extranet de la fédération
+  Connectez vous avec votre identifiant et mot de passe reçu l&amp;rsquo;année dernière (vous pouvez le redemander si vous l&amp;rsquo;avez perdu)
+  Sélectionnez le renouvellement d&amp;rsquo;une licence fédérale
+  Si vous avez un certificat médical de moins de 3 ans, vous n&amp;rsquo;avez pas besoin de nouveau si vous répondez non à toutes les questions de ce document en pièce jointe (ça vous sera demandé lors de l&amp;rsquo;enregistrement)</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>#Loisir on Gsquash</title>
+    <link>https://www2.gsquash.fr/tags/#loisir/</link>
+    <description>Recent content in #Loisir on Gsquash</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 05 Sep 2020 20:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://www2.gsquash.fr/tags/#loisir/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Inscription Soirée squash 30/09/2020</title>
+      <link>https://www2.gsquash.fr/loisir/soiree-30-09/</link>
+      <pubDate>Sat, 05 Sep 2020 20:00:00 +0100</pubDate>
+      
+      <guid>https://www2.gsquash.fr/loisir/soiree-30-09/</guid>
+      <description>La première soirée de l&amp;rsquo;année a eu lieu 30/09/2020 à 19h45 au Break Sportif !
+La formule de la soirée vous sera expliquée le jour J.
+Merci d&amp;rsquo;être présent en tenu quelques minutes avant 19h45.
+Prix de la soirée : 5€
+Inscrivez vous:
+  </description>
+    </item>
+    
+  </channel>
+</rss>

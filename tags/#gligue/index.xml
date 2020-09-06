@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>#gligue on Gsquash</title>
+    <link>https://www2.gsquash.fr/tags/#gligue/</link>
+    <description>Recent content in #gligue on Gsquash</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 01 Sep 2020 20:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://www2.gsquash.fr/tags/#gligue/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Inscription G2Sligue</title>
+      <link>https://www2.gsquash.fr/g2sligue/registration/</link>
+      <pubDate>Tue, 01 Sep 2020 20:00:00 +0100</pubDate>
+      
+      <guid>https://www2.gsquash.fr/g2sligue/registration/</guid>
+      <description>Inscription G2SLigue L&amp;rsquo;an passé la Gligue est devenu la G2SLigue, et avec succes malgrès le corona virus !
+Comme les autres années, cette ligue est ouverte aux squasheurs de toutes les associations !
+Il suffit d&amp;rsquo;être disponible pour faire 3 matches par mois.
+Cette année c&amp;rsquo;est ArnaudA qui se chargera de mettre à jours les resultats que vous enverrez à gligue@gsquash.fr
+Afin de participer aux frais de fonctionnement, l&amp;rsquo;inscription est de 5€ pour l&amp;rsquo;année pour les personnes qui n&amp;rsquo;ont pas d&amp;rsquo;adhésion à G.</description>
+    </item>
+    
+    <item>
+      <title>Classement G2S Ligue 2020/2021</title>
+      <link>https://www2.gsquash.fr/g2sligue/ranking/</link>
+      <pubDate>Tue, 01 Sep 2020 13:44:13 +0100</pubDate>
+      
+      <guid>https://www2.gsquash.fr/g2sligue/ranking/</guid>
+      <description>Les résultats des rencontres sont à envoyer à gligue@gsquash.fr
+Rencontres   Classement du mois   Classement annuel   </description>
+    </item>
+    
+    <item>
+      <title>Poule G2S Ligue 2020/2021</title>
+      <link>https://www2.gsquash.fr/g2sligue/poule/</link>
+      <pubDate>Tue, 01 Sep 2020 13:44:13 +0100</pubDate>
+      
+      <guid>https://www2.gsquash.fr/g2sligue/poule/</guid>
+      <description>Les résultats des rencontres sont à envoyer à gligue@gsquash.fr
+Rencontres Voici les poules du mois
+  </description>
+    </item>
+    
+  </channel>
+</rss>

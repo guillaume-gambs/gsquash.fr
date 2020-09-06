@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>association on Gsquash</title>
+    <link>https://www2.gsquash.fr/tags/association/</link>
+    <description>Recent content in association on Gsquash</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 30 Aug 2020 21:54:52 +0200</lastBuildDate>
+    
+	<atom:link href="https://www2.gsquash.fr/tags/association/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Licence</title>
+      <link>https://www2.gsquash.fr/association/licence/</link>
+      <pubDate>Sun, 30 Aug 2020 21:54:52 +0200</pubDate>
+      
+      <guid>https://www2.gsquash.fr/association/licence/</guid>
+      <description>La fédération a simplifié les modalités de renouvellement de licence.
+Celle-ci se fait directement sur l&amp;rsquo;extranet de la fédération
+  Connectez vous avec votre identifiant et mot de passe reçu l&amp;rsquo;année dernière (vous pouvez le redemander si vous l&amp;rsquo;avez perdu)
+  Sélectionnez le renouvellement d&amp;rsquo;une licence fédérale
+  Si vous avez un certificat médical de moins de 3 ans, vous n&amp;rsquo;avez pas besoin de nouveau si vous répondez non à toutes les questions de ce document en pièce jointe (ça vous sera demandé lors de l&amp;rsquo;enregistrement)</description>
+    </item>
+    
+    <item>
+      <title>Service cordage</title>
+      <link>https://www2.gsquash.fr/association/cordage/</link>
+      <pubDate>Sun, 30 Aug 2020 21:54:52 +0200</pubDate>
+      
+      <guid>https://www2.gsquash.fr/association/cordage/</guid>
+      <description>L&amp;rsquo;association G.Squash propose un service de cordage de votre raquette de squash.
+La machine utilisée est une STRINGER 8700 électronique.
+Les cordages proposés sont :
+Tecnifibre DNAMX Gauge 1.20 (Noir) :
+Nouveau cordage Tecnifibre DNAMX 1.20mm sortie en Avril 2016, remplaçant du 305 plus dont il reprend les caractéristiques de jeu. Confort et durabilité. Un cordage qui ne demande aucun temps d&amp;rsquo;adaptation.
+  Prix du cordage : 15 euros</description>
+    </item>
+    
+  </channel>
+</rss>

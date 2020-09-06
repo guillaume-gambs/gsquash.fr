@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>poule on Gsquash</title>
+    <link>https://www2.gsquash.fr/tags/poule/</link>
+    <description>Recent content in poule on Gsquash</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 01 Sep 2020 13:44:13 +0100</lastBuildDate>
+    
+	<atom:link href="https://www2.gsquash.fr/tags/poule/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Poule G2S Ligue 2020/2021</title>
+      <link>https://www2.gsquash.fr/g2sligue/poule/</link>
+      <pubDate>Tue, 01 Sep 2020 13:44:13 +0100</pubDate>
+      
+      <guid>https://www2.gsquash.fr/g2sligue/poule/</guid>
+      <description>Les résultats des rencontres sont à envoyer à gligue@gsquash.fr
+Rencontres Voici les poules du mois
+  </description>
+    </item>
+    
+  </channel>
+</rss>

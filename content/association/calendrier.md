@@ -5,6 +5,7 @@ draft: false
 tags: ["calendrier", "evenements"]
 type : "docs"
 description: "Retrouvez ici les evenements Gsquash"
+icon: "ti-agenda"
 ---
 
 Retrouvez les dates clés de l'association.

@@ -5,6 +5,7 @@ draft: false
 tags: [ "g2sligue", "#gligue" ]
 type: "docs"
 description: "Inscription 2020-2021"
+icon: "ti-calendar"
 ---
 
 ## Inscription G2SLigue

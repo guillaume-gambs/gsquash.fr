@@ -5,6 +5,7 @@ draft: false
 tags: [ "g2sligue", "#gligue" ]
 type: "docs"
 description: "Résultats de la G2SLigue"
+icon: "ti-cup"
 ---
 
 Les résultats des rencontres sont à envoyer à [gligue@gsquash.fr](mailto:gligue@gsquash.fr?subject=%5BGLIGUE%5D%20-%20R%C3%A9sultat%20rencontre")

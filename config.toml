@@ -89,27 +89,21 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Competition"
-  name = "Compétition"
-  url = "Competition"
-  weight = 1
-
-  [[menu.main]]
-  parent = "Competition"
   name = "Régionale 2 Féminine"
   url = "team/team_0"
-  weight = 2
+  weight = 1
 
   [[menu.main]]
   parent = "Competition"
   name = "Régionale 2 Masculine"
   url = "team/team_1"
-  weight = 3
+  weight = 2
 
   [[menu.main]]
   parent = "Competition"
   name = "Régionale 3 Masculine"
   url = "team/team_2"
-  weight = 4
+  weight = 3
 
 # Dropdown menu
 [[menu.main]]

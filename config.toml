@@ -69,11 +69,18 @@ hasChildren = true
   url = "association/cordage"
   weight = 3
 
+# Dropdown menu
 [[menu.main]]
 name = "Loisir"
-url = "loisir"
 weight = 2
-
+hasChildren = true
+#
+  [[menu.main]]
+  parent = "Loisir"
+  name = "Soirée squash 30/09/20"
+  url = "loisir/soiree-30-09"
+  weight = 1
+  
 # Dropdown menu
 [[menu.main]]
 weight = 3

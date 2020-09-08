@@ -4,7 +4,7 @@ baseURL = "https://www.gsquash.fr"
 # theme
 theme = "dot"
 # site title
-title = "Gsquash"
+title = "G.Squash"
 # disable language
 disableLanguages = []
 #languageCode = "fr-fr"

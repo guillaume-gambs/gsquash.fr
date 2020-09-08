@@ -151,10 +151,10 @@ home = "Accueil"
 
 # banner
 [Languages.fr.params.banner]
-title = "Comment pouvons-nous vous aider ?"
+title = "Bienvenue chez G.Squash"
 description = "Trouvez rapidement une page"
 bg_image = "images/banner.png"
-placeholder = "Avoir une question ? Il suffit de demander ici ou de saisir les termes"
+placeholder = "Vous avez une question ? Il suffit de demander ici ou de saisir les termes"
 
 # call to action
 #[Languages.fr.params.cta]

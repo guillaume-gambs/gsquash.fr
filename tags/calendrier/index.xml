@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>calendrier on Gsquash</title>
-    <link>https://www2.gsquash.fr/tags/calendrier/</link>
+    <link>https://www.gsquash.fr/tags/calendrier/</link>
     <description>Recent content in calendrier on Gsquash</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sun, 30 Aug 2020 21:54:26 +0200</lastBuildDate>
     
-	<atom:link href="https://www2.gsquash.fr/tags/calendrier/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.gsquash.fr/tags/calendrier/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Calendrier Gsquash</title>
-      <link>https://www2.gsquash.fr/association/calendrier/</link>
+      <link>https://www.gsquash.fr/association/calendrier/</link>
       <pubDate>Sun, 30 Aug 2020 21:54:26 +0200</pubDate>
       
-      <guid>https://www2.gsquash.fr/association/calendrier/</guid>
+      <guid>https://www.gsquash.fr/association/calendrier/</guid>
       <description>Retrouvez les dates clés de l&amp;rsquo;association.
   Pour importer, vous avez la possibilité de copier coller les urls :
  Gieres 1 :  https://calendar.google.com/calendar/ical/386d7pevhjut60sj2nv0k1gr4k%40group.calendar.google.com/public/basic.ics  Gieres 2 :  https://calendar.google.com/calendar/ical/o98l9lenbgu7bja48tf1nthukc%40group.calendar.google.com/public/basic.ics </description>

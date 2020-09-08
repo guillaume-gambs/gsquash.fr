@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Gsquash</title>
-    <link>https://www2.gsquash.fr/categories/</link>
+    <link>https://www.gsquash.fr/categories/</link>
     <description>Recent content in Categories on Gsquash</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     
-	<atom:link href="https://www2.gsquash.fr/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.gsquash.fr/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

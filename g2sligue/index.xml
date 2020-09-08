@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>G2sligues on Gsquash</title>
-    <link>https://www2.gsquash.fr/g2sligue/</link>
+    <link>https://www.gsquash.fr/g2sligue/</link>
     <description>Recent content in G2sligues on Gsquash</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Tue, 01 Sep 2020 20:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://www2.gsquash.fr/g2sligue/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.gsquash.fr/g2sligue/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Inscription G2Sligue</title>
-      <link>https://www2.gsquash.fr/g2sligue/registration/</link>
+      <link>https://www.gsquash.fr/g2sligue/registration/</link>
       <pubDate>Tue, 01 Sep 2020 20:00:00 +0100</pubDate>
       
-      <guid>https://www2.gsquash.fr/g2sligue/registration/</guid>
+      <guid>https://www.gsquash.fr/g2sligue/registration/</guid>
       <description>Depuis l&amp;rsquo;an dernier la G.Ligue s&amp;rsquo;est transformé en la G2SLigue.
 Elle a rencontré un franc succès malgré le corona virus !
 Comme toujours, cette compétition est ouverte aux squasheuses et squasheurs de toutes les associations !
@@ -27,20 +27,20 @@ Afin de participer aux frais de fonctionnement, l&amp;rsquo;inscription s&amp;rs
     
     <item>
       <title>Classement G2S Ligue 2020/2021</title>
-      <link>https://www2.gsquash.fr/g2sligue/ranking/</link>
+      <link>https://www.gsquash.fr/g2sligue/ranking/</link>
       <pubDate>Tue, 01 Sep 2020 13:44:13 +0100</pubDate>
       
-      <guid>https://www2.gsquash.fr/g2sligue/ranking/</guid>
+      <guid>https://www.gsquash.fr/g2sligue/ranking/</guid>
       <description>Les résultats des rencontres sont à envoyer à gligue@gsquash.fr
 Rencontres   Classement du mois   Classement annuel   </description>
     </item>
     
     <item>
       <title>Poule G2S Ligue 2020/2021</title>
-      <link>https://www2.gsquash.fr/g2sligue/poule/</link>
+      <link>https://www.gsquash.fr/g2sligue/poule/</link>
       <pubDate>Tue, 01 Sep 2020 13:44:13 +0100</pubDate>
       
-      <guid>https://www2.gsquash.fr/g2sligue/poule/</guid>
+      <guid>https://www.gsquash.fr/g2sligue/poule/</guid>
       <description>Les résultats des rencontres sont à envoyer à gligue@gsquash.fr
 Rencontres Voici les poules du mois :
   </description>
@@ -48,10 +48,10 @@ Rencontres Voici les poules du mois :
     
     <item>
       <title>Réglement G2SLigue</title>
-      <link>https://www2.gsquash.fr/g2sligue/rules/</link>
+      <link>https://www.gsquash.fr/g2sligue/rules/</link>
       <pubDate>Sun, 26 Jan 2020 14:45:01 +0100</pubDate>
       
-      <guid>https://www2.gsquash.fr/g2sligue/rules/</guid>
+      <guid>https://www.gsquash.fr/g2sligue/rules/</guid>
       <description>Tout membre des associations G.Squash et B2S peuvent participer au championnat annuel loisirs, s&amp;rsquo;ils le souhaitent (pour les autres associations, merci de nous contacter).
   Une cotisation de 5€ est demandée pour les joueuses et joueurs hors G.Squash
   Ce championnat se déroule par poules de 4 joueuses/joueurs (chaque joueuse/joueur rencontre tous les autres joueuses/joueurs de sa poule). Cela représente 3 rencontres à jouer chaque mois.</description>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>association on Gsquash</title>
-    <link>https://www2.gsquash.fr/tags/association/</link>
+    <link>https://www.gsquash.fr/tags/association/</link>
     <description>Recent content in association on Gsquash</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sun, 30 Aug 2020 21:54:52 +0200</lastBuildDate>
     
-	<atom:link href="https://www2.gsquash.fr/tags/association/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.gsquash.fr/tags/association/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Licence</title>
-      <link>https://www2.gsquash.fr/association/licence/</link>
+      <link>https://www.gsquash.fr/association/licence/</link>
       <pubDate>Sun, 30 Aug 2020 21:54:52 +0200</pubDate>
       
-      <guid>https://www2.gsquash.fr/association/licence/</guid>
+      <guid>https://www.gsquash.fr/association/licence/</guid>
       <description>La fédération a simplifié les modalités de renouvellement de licence.
 Celle-ci se fait directement sur l&amp;rsquo;extranet de la fédération
   Connectez vous avec votre identifiant et mot de passe reçu l&amp;rsquo;année dernière (vous pouvez le redemander si vous l&amp;rsquo;avez perdu)
@@ -26,10 +26,10 @@ Celle-ci se fait directement sur l&amp;rsquo;extranet de la fédération
     
     <item>
       <title>Service cordage</title>
-      <link>https://www2.gsquash.fr/association/cordage/</link>
+      <link>https://www.gsquash.fr/association/cordage/</link>
       <pubDate>Sun, 30 Aug 2020 21:54:52 +0200</pubDate>
       
-      <guid>https://www2.gsquash.fr/association/cordage/</guid>
+      <guid>https://www.gsquash.fr/association/cordage/</guid>
       <description>L&amp;rsquo;association G.Squash propose un service de cordage pour votre raquette de squash.
 La machine utilisée est une STRINGER 8700 électronique.
 Le cordage proposé est celui-ci :

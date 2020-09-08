@@ -9,11 +9,11 @@ icon: "ti-world"
 
 L'association G.Squash a vu le jour le _15 mai 2014_.
 
-Cette association initialement basée au Squash Club de Gières, et a vu par le passé quelques déménagement, est basée maintenant au Break Sportif d'Echirolles.
+Cette association initialement basée au Squash Club de Gières, et a vu par le passé quelques déménagements, est désormais basée au Break Sportif d'Échirolles.
 
 ## Activités de l'association
 
-Toute l'association ainsi que le club vous accueillera au Break Sportif d'Echirolles pour plusieurs animations et pour vous faire partager sa passion pour le Squash.
+Toute l'association ainsi que le club vous accueilleront au Break Sportif d'Échirolles pour plusieurs animations et pour vous faire partager sa passion pour le Squash.
 
 Voici maintenant une présentation des activités de l'association :
 
@@ -21,11 +21,11 @@ Voici maintenant une présentation des activités de l'association :
 
 Tout au long de la saison, tous les membres de l'association se confrontent pour remporter la G2SLigue !
 
-N'hésitez pas à regarder le [réglement]({{< relref "g2sligue/rules" >}} "réglement"), [les poules]({{< relref "g2sligue/poule" >}} "poule") et [le classement]({{< relref "g2sligue/ranking" >}} "ranking")
+N'hésitez pas à regarder le [réglement]({{< relref "g2sligue/rules" >}} "réglement"), [les poules]({{< relref "g2sligue/poule" >}} "poule") et [le classement]({{< relref "g2sligue/ranking" >}} "ranking").
 
 ## Soirée squash / Tournoi loisirs
 
-Ponctuellement des soirées squash sont organisées afin de se retrouver dans un climat amical et sportif avec des formules permettant de rencontrer un grand nombre de personnes autour de "formules squash" différentes selon l'organisateur.
+Ponctuellement, des soirées squash sont organisées afin de se retrouver dans un climat amical et sportif avec des formules permettant de rencontrer un grand nombre de personnes autour de "formules squash" différentes selon l'organisateur.
 
 Quelques tournois loisirs seront organisés lors de la saison 2020/2021.
 
@@ -35,7 +35,7 @@ Une annonce sera faite lors de l'ouverture des inscriptions.
 
 L'association donne accès à la compétition à celles et ceux qui désirent se frotter au gratin régional et national.
 
-Il est possible de participer à des *tournois individuels* (référencés à la Fédération Française de Squash), mais également de participer aux *championnat régionaux de la ligue Rhone-Alpes-Auvergne par équipes*.
+Il est possible de participer à des *tournois individuels* (référencés à la Fédération Française de Squash), mais également de participer aux *championnats régionaux de la ligue Rhone-Alpes-Auvergne par équipes*.
 
 Lors de cette saison 2020/2021, 3 équipes sont inscrites
 
@@ -47,7 +47,7 @@ Lors de cette saison 2020/2021, 3 équipes sont inscrites
 
 ## Organisation Tournois officiels
 
-Cette saison 2020-2021, nous avons la chance d'organiser 2 tournois au Brek sportif d'Echirolles :
+Cette saison 2020-2021, nous avons le privilège d'organiser 2 tournois, au nom de l'association GSquash, au Break sportif d'Échirolles :
 
 - Le championnat de ligue 5ème série le 14 et 15 novembre 2020
 
@@ -55,7 +55,7 @@ Cette saison 2020-2021, nous avons la chance d'organiser 2 tournois au Brek spor
 
 ## Cordage
 
-Le [service de cordage]({{< relref "association/cordage" >}} "Service Cordage") est toujours d'actualité : merci de voir avec une personne de l'association ou directement avec Christophe Spinello pour réparer votre matériel ! (coût 25€)
+Le [service de cordage]({{< relref "association/cordage" >}} "Service Cordage") est toujours d'actualité : merci de vous adresser à un membre de l'association, ou bien directement à Christophe Spinello pour réparer votre matériel ! (coût 25€)
 
 ## Le Bureau
 

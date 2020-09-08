@@ -12,6 +12,6 @@ Les résultats des rencontres sont à envoyer à [gligue@gsquash.fr](mailto:glig
 
 ## Rencontres
 
-Voici les poules du mois
+Voici les poules du mois :
 
 {{< gdocs  height="850"  width="600" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRklDWXbM0wEEJY5St0Rz07xW8yvhvXg-oDiGzc62IVbWln66ki4EPhnR6JwF644yuq2rO_FJ3Hn3Xa/pubhtml?gid=576846267&single=true&widget=true&headers=false" >}}

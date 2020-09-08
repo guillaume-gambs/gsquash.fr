@@ -8,20 +8,22 @@ description: "Inscription 2020-2021"
 icon: "ti-calendar"
 ---
 
-## Inscription G2SLigue
+Depuis l'an dernier la G.Ligue s'est transformé en la G2SLigue.
 
-L'an passé la Gligue est devenu la G2SLigue, et avec succes malgrès le corona virus !
+Elle a rencontré un franc succès malgré le corona virus !
 
-Comme les autres années, cette ligue est ouverte aux squasheurs de toutes les associations !
+Comme toujours, cette compétition est ouverte aux squasheuses et squasheurs de toutes les associations !
 
-Il suffit d'être disponible pour faire 3 matches par mois.
+Il suffit d'être disponible pour faire 3 matchs par mois.
 
-Cette année c'est ArnaudA qui se chargera de mettre à jours les resultats que vous enverrez à gligue@gsquash.fr
+Cette année, ArnaudA se chargera de mettre à jour les résultats que vous enverrez à l'adresse [gligue@gsquash.fr](mailto:gligue@gsquash.fr?subject=%5BGLIGUE%5D%20-%20R%C3%A9sultat%20rencontre)
 
-Afin de participer aux frais de fonctionnement, l'inscription est de 5€ pour l'année pour les personnes qui n'ont pas d'adhésion à G.Squash à remettre à Guillaume G. ou Gaëtan P.
+Afin de participer aux frais de fonctionnement, l'inscription s'élève à 5€ pour l'année, pour les squasheuses et squasheurs, qui ne sont pas adhérents G.Squash. Enveloppe à remettre à Guillaume G. ou Gaëtan P.
 
-Bonne saison à tous et au plaisir de se croiser au détour d'une poule !
+Pour les G.Squasheuses et G.Squasheurs, l'inscription est gratuite.
 
-Arnaud & Gaëtan & Guillaume
+Bonne saison à toutes et tous et au plaisir de se croiser au détour d'une poule !
+
+Arnaud, Gaëtan & Guillaume
 
 {{< gdocs height="1360" width="640"  src="https://docs.google.com/forms/d/e/1FAIpQLSeJXg7eIDwtivyXOgF_Uf-racql7-lEK8Jvq8CpPJp0jAzQLA/viewform?embedded=true"  >}}

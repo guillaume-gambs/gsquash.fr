@@ -16,14 +16,14 @@ Celle-ci se fait directement sur [l'extranet de la fédération](https://extrane
 
 1. Sélectionnez le renouvellement d'une **licence fédérale**
 
-1. Si vous avez un certificat médical de moins de 3 ans, vous n'avez pas besoin de nouveau si vous répondez non à toutes les questions de ce [document](/images/QS_Sport-form.pdf) en pièce jointe (ça vous sera demandé lors de l'enregistrement)
+1. Si vous avez un certificat médical de moins de 3 ans, nul besoin d'en fournir un nouveau, à condition de répondre `non` à toutes les questions de ce [document](/images/QS_Sport-form.pdf) en pièce jointe (cela vous sera demandé lors de l'enregistrement)
 
 1. Payez en ligne votre adhésion qui correspond à la licence + à la cotisation de l'association
 
 1. C'est terminé, Enjoy !
 
 {{< notice note >}}
-Prenez l'assurance par défaut (quelques centimes) car sinon, il faut ajouter une étape de plus avec un document scanné à envoyer à la fédération
+Prenez l'assurance par défaut (quelques centimes), au risque de devoir procéder à une étape supplémentaire et de devoir **obligatoirement** envoyer des documents à la fédération.
 {{< /notice >}}
 
-Si vous avez un problème ou une nouvelle licence merci de prendre contact avec Gaëtan
+Si vous rencontrez un problème ou si vous avez besoin d'une nouvelle licence, merci de prendre contact avec Gaëtan.

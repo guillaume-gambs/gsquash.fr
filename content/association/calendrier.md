@@ -1,10 +1,10 @@
 ---
-title: "Calendrier Gsquash"
+title: "Calendrier G.Squash"
 date: 2020-08-30T21:54:26+02:00
 draft: false
 tags: ["calendrier", "evenements"]
 type : "docs"
-description: "Retrouvez ici les evenements Gsquash"
+description: "Retrouvez ici les évenements G.Squash"
 icon: "ti-agenda"
 ---
 

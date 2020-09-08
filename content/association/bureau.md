@@ -49,7 +49,7 @@ Lors de cette saison 2020/2021, 3 équipes sont inscrites
 
 Cette saison 2020-2021, nous avons le privilège d'organiser 2 tournois, au nom de l'association GSquash, au Break sportif d'Échirolles :
 
-- Le championnat de ligue 5ème série le 14 et 15 novembre 2020
+- Le championnat de ligue 5ème série le 7 et 8 novembre 2020
 
 - L'open des Gièrois le 27 et 28 février 2021
 

@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://www2.gsquash.fr"
+baseURL = "https://www.gsquash.fr"
 # theme
 theme = "dot"
 # site title

@@ -27,7 +27,7 @@ jobs:
     - name: Create CNAME
       run: |
         pwd
-        echo "www2.gsquash.fr ">./public/CNAME
+        echo "www.gsquash.fr ">./public/CNAME
         ls -latr
         ls -latr public
 

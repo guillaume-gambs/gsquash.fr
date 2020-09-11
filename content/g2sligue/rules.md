@@ -4,9 +4,9 @@ date: 2020-01-26T14:45:01+01:00
 draft: false
 ---
 
-* Tout membre des associations G.Squash et B2S peuvent participer au championnat annuel loisirs, s'ils le souhaitent (pour les autres associations, merci de nous contacter).
+* Tout membre des associations G.Squash et B2S peuvent participer au championnat annuel loisirs, s'ils le souhaitent (pour les autres associations, ou sans association, merci de nous contacter).
 
-* Une cotisation de 5€ est demandée pour les joueuses et joueurs hors G.Squash
+* Une cotisation annuelle de 5€ est demandée pour les joueuses et joueurs hors G.Squash
 
 * Ce championnat se déroule par poules de 4 joueuses/joueurs (chaque joueuse/joueur rencontre tous les autres joueuses/joueurs de sa poule). Cela représente 3 rencontres à jouer chaque mois.
 

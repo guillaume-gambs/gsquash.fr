@@ -17,7 +17,6 @@ We are happy to share with you the code in all transparency
 
 - [Documentation du template dot](http://demo.themefisher.com/dot-hugo/installation/install/) (doc most useful)
 - [Documentation Hugo](https://gohugo.io/content-management/organization/)
-- [Utilisation de Mermaid](https://learn.netlify.com/en/shortcodes/mermaid/)
 
 Le site _Github Pages_ is rebuild on each _push_ on `master`. It is accessile on [dot](http://demo.themefisher.com/dot-hugo/installation/install/) or with the link in About section in the sidebar.
 

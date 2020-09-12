@@ -7,7 +7,7 @@
 
 [![HUGO](https://raw.githubusercontent.com/gohugoio/gohugoioTheme/master/static/images/hugo-logo-wide.svg?sanitize=true)](https://raw.githubusercontent.com/gohugoio/gohugoioTheme/master/static/images/hugo-logo-wide.svg?sanitize=true)
 
-This project is to share informations with other player of squash in grenoble. This wesite is accessible on [gsquash.fr](gsquash.fr)
+This project is to share informations with other player of squash in grenoble. This wesite is accessible on [gsquash.fr](https://www.gsquash.fr)
 
 We are happy to share with you the code in all transparency
 

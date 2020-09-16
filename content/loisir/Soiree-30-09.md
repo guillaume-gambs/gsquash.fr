@@ -20,6 +20,6 @@ Inscrivez-vous :
 
 {{< gdocs height="880" width="640" src="https://docs.google.com/forms/d/e/1FAIpQLSfrhoIBGU0cs_-5ABB0-FSX3ayS5Va46iQF-bOfSpRh34Y8Jw/viewform?usp=pp_url" >}}
 
-Liste des inscrits :
+La liste des inscrits :
 
-{{< gdocs height="500" width="640"  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSDPsS0yVGvV1kbXSmweuEvA2y7C5ocYCjyGoeeDkROw_2BiGqorKw_PuIXPig4Yg4PBulx9e3jbx2Q/pubhtml"  >}}
+{{< gdocs height="580" width="360" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSDPsS0yVGvV1kbXSmweuEvA2y7C5ocYCjyGoeeDkROw_2BiGqorKw_PuIXPig4Yg4PBulx9e3jbx2Q/pubhtml" >}}

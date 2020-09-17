@@ -22,4 +22,4 @@ Inscrivez-vous :
 
 La liste des inscrits :
 
-{{< gdocs height="580" width="360" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSDPsS0yVGvV1kbXSmweuEvA2y7C5ocYCjyGoeeDkROw_2BiGqorKw_PuIXPig4Yg4PBulx9e3jbx2Q/pubhtml" >}}
+{{< gdocs height="580" width="325" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSDPsS0yVGvV1kbXSmweuEvA2y7C5ocYCjyGoeeDkROw_2BiGqorKw_PuIXPig4Yg4PBulx9e3jbx2Q/pubhtml?gid=1457979456&single=true&widget=true&headers=false" >}}

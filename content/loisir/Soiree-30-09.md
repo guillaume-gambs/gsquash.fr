@@ -1,11 +1,12 @@
 ---
 title: "Inscription Soirée squash du 30 septembre 2020"
-date: 2020-09-05T20:00:00+01:00
+date: 2030-09-05T20:00:00+01:00
 draft: false
 tags: [ "soiree", "#Loisir" ]
 type: "docs"
 icon: "ti-calendar"
 description: "Inscription soirée squash"
+hidden: true
 ---
 
 La première soirée de l'année aura lieu le 30/09/2020 à 19h45 au Break Sportif !

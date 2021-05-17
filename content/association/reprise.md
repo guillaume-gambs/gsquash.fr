@@ -5,7 +5,7 @@ draft: false
 tags: ["protocole_sanitaire"]
 type : "docs"
 description: "Protocole sanitaire de reprise des activités physiques et sportives - document gouvernemental"
-icon: "ti-wand"
+icon: "ti-calendar"
 ---
 
 ## Protocole sanitaire de reprise des activités physiques et sportives

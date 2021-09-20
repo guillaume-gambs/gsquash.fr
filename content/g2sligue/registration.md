@@ -9,7 +9,7 @@ icon: "ti-calendar"
 ---
 
 La G2SLigue existe depuis plusieurs années maintenant !
-Si vous souhiatez vous aussi participer, inscrivez vous avec le formulaire ci-dessous.
+Si vous souhaitez vous aussi participer, inscrivez-vous avec le formulaire ci-dessous.
 
 Comme toujours, cette compétition est ouverte aux squasheuses et squasheurs de toutes les associations !
 

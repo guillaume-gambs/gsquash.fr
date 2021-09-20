@@ -1,16 +1,15 @@
 ---
 title: "Inscription G2Sligue"
-date: 2020-09-01T20:00:00+01:00
+date: 2021-09-19T20:00:00+01:00
 draft: false
 tags: [ "g2sligue", "#gligue" ]
 type: "docs"
-description: "Inscription 2020-2021"
+description: "Inscription 2021-2022"
 icon: "ti-calendar"
 ---
 
-Depuis l'an dernier la G.Ligue s'est transformé en la G2SLigue.
-
-Elle a rencontré un franc succès malgré le corona virus !
+La G2SLigue existe depuis plusieurs années maintenant !
+Si vous souhiatez vous aussi participer, inscrivez vous avec le formulaire ci-dessous.
 
 Comme toujours, cette compétition est ouverte aux squasheuses et squasheurs de toutes les associations !
 
@@ -26,4 +25,4 @@ Bonne saison à toutes et tous et au plaisir de se croiser au détour d'une poul
 
 Arnaud, Gaëtan & Guillaume
 
-{{< gdocs height="1360" width="640"  src="https://docs.google.com/forms/d/e/1FAIpQLSeJXg7eIDwtivyXOgF_Uf-racql7-lEK8Jvq8CpPJp0jAzQLA/viewform?embedded=true"  >}}
+{{< gdocs height="1360" width="640"  src="https://docs.google.com/forms/d/1xyBcTHUfkIDHTiCVWcsi_Y6P9pqVkAd_b0lbJVSDYYI/viewform?embedded=true"  >}}

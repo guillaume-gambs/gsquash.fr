@@ -10,6 +10,8 @@ description: "Équipe Masculine 1"
 
 Nouvelle saison en Régional 2 !
 
+Bastien prend le relai de notre CapLolo qui tenait la barre depuis plusieurs saisons ! Merci CapLolo !
+
 ![Calendrier](/images/2021-2022-R2H.png)
 
 ## Les joueurs

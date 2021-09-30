@@ -10,13 +10,13 @@ description: "Équipe Masculine 2"
 
 Nouvelle saison en Régional 3 !
 
-Changement de capitanat pour cette saison 2020-2021, suite à une précendente année mouvementée pour notre Guigui !
+Nouveau Capitaine cette année avec notre Rankenstein Guy !!
 
-Encore merci à lui pour sa gestion de l'équipe malgré les aléas (soyez rassurés, il reste le membre le plus actif du bureau de l'asso) !
+![Calendrier](/images/2021-2022-R3H.png)
 
 ## Les joueurs
 
-- Arnaud C (Le Capitaine)
+- Arnaud C 
 
 - Arnaud A
 
@@ -26,13 +26,11 @@ Encore merci à lui pour sa gestion de l'équipe malgré les aléas (soyez rassu
 
 - Jeff
 
-- Jérémy
-
 - Laurent
 
 - Mathieu
 
-- Rolf (Rankenstein Guy)
+- Rolf (Le Capitaine) (Rankenstein Guy)
 
 - Sébastien
 

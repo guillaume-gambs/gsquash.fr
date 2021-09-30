@@ -10,21 +10,21 @@ description: "Équipe Féminine"
 
 Après une année sabbatique, G.Squash repart, en fanfare avec son équipe féminine !
 
-Dès que les dates seront connues, elles seront communiquées sur cette page et dans l'agenda, afin d'organiser la venue des `PomPomBoy`
+Voici les dates des journées de championnat :
+ - 20 Novembre 2021
+ - 11 décembre 2021
+ - 12 mars 2022
+ - 2 avril 2022
 
 
 ## Les joueuses
 
-- Sonia (La Capitaine)
+- Sonia 
 
 - Coline
 
-- Emmanuelle
+- Emmanuelle (La Capitaine)
 
-- Lilie
-
-- Fanny
-
-Nous avons la chance d'avoir deux nouvelles recrues !
+- et des recrutements en cours ! 
 
 Bonne saison à toutes !

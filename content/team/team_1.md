@@ -10,15 +10,15 @@ description: "Équipe Masculine 1"
 
 Nouvelle saison en Régional 2 !
 
-Il y a fort à parier que le capitaine vise à accrocher une place en playoff après la saison 2019-2020 stoppée alors que l'équipe occupait la seconde place !
+![Calendrier](/images/2021-2022-R2H.png)
 
 ## Les joueurs
 
-- Laurent (capitaine) dit Capapylolo
+- Laurent B
 
 - Arnaud D
 
-- Bastien
+- Bastien (capitaine)
 
 - Christophe
 

@@ -6,7 +6,17 @@
     <description>Recent content in #gligue on G.Squash</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 19 Sep 2021 20:00:00 +0100</lastBuildDate><atom:link href="https://www.gsquash.fr/tags/#gligue/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Oct 2021 13:44:13 +0100</lastBuildDate><atom:link href="https://www.gsquash.fr/tags/#gligue/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Classement G2S Ligue 2021/2022</title>
+      <link>https://www.gsquash.fr/g2sligue/ranking/</link>
+      <pubDate>Fri, 01 Oct 2021 13:44:13 +0100</pubDate>
+      
+      <guid>https://www.gsquash.fr/g2sligue/ranking/</guid>
+      <description>Les résultats des rencontres sont à envoyer à gligue@gsquash.fr
+Rencontres   Classement du mois   Classement annuel   </description>
+    </item>
+    
     <item>
       <title>Inscription G2Sligue</title>
       <link>https://www.gsquash.fr/g2sligue/registration/</link>
@@ -29,16 +39,6 @@ Afin de participer aux frais de fonctionnement, l&amp;rsquo;inscription s&amp;rs
       <description>Les résultats des rencontres sont à envoyer à gligue@gsquash.fr
 Rencontres Voici les poules du mois :
   </description>
-    </item>
-    
-    <item>
-      <title>Classement G2S Ligue 2020/2021</title>
-      <link>https://www.gsquash.fr/g2sligue/ranking/</link>
-      <pubDate>Tue, 01 Sep 2020 13:44:13 +0100</pubDate>
-      
-      <guid>https://www.gsquash.fr/g2sligue/ranking/</guid>
-      <description>Les résultats des rencontres sont à envoyer à gligue@gsquash.fr
-Rencontres   Classement du mois   Classement annuel   </description>
     </item>
     
   </channel>

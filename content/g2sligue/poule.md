@@ -1,5 +1,5 @@
 ---
-title: "Poule G2S Ligue 2020/2021"
+title: "Poule G2S Ligue 2021/2022"
 date: 2021-09-01T13:37:00+01:00
 draft: false
 tags: [ "g2sligue", "#gligue" , "poule"]

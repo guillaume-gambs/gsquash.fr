@@ -88,11 +88,11 @@ weight = 2
 hasChildren = true
 #
 
-#  [[menu.main]]
-#  parent = "Loisir"
-#  name = "Soirée squash 30/09/20"
-#  url = "loisir/soiree-30-09"
-#  weight = 1
+  [[menu.main]]
+  parent = "Loisir"
+  name = "Soirée squash 24/11/21"
+  url = "loisir/soiree-30-09"
+  weight = 1
   
 # Dropdown menu
 [[menu.main]]

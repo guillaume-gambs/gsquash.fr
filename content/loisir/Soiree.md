@@ -18,8 +18,8 @@ Prix de la soirée : 10€
 
 Inscrivez-vous :
 
-{{< gdocs height="880" width="640" src="https://docs.google.com/forms/d/e/1FAIpQLSd58jw5TzB9EDZ3CYsi1ugwftvf3XqJG-3biZF3UV0teBB51g/viewform?usp=pp_url" >}}
+{{< gdocs height="700" width="640" src="https://docs.google.com/forms/d/e/1FAIpQLSd58jw5TzB9EDZ3CYsi1ugwftvf3XqJG-3biZF3UV0teBB51g/viewform?embedded=true" >}}
 
 La liste des inscrits :
 
-{{< gdocs height="580" width="325" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7BLxvt7zz8ljdgOVwswlH4ws9y8NvscFEepdm9m0Rpk0lCJibbSegtSVP4RQVLvIM2DYfdnGOrJyp/pubhtml?gid=2089043854&single=true" >}}
+{{< gdocs height="500" width="200" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7BLxvt7zz8ljdgOVwswlH4ws9y8NvscFEepdm9m0Rpk0lCJibbSegtSVP4RQVLvIM2DYfdnGOrJyp/pubhtml?gid=2089043854&single=true&widget=true&headers=false" >}}

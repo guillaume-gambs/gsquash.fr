@@ -8,7 +8,7 @@ icon: "ti-calendar"
 description: "Inscription soirée squash"
 ---
 
-La première soirée de l'année aura lieu le 24/11/2020 à 19h45 au Break Sportif !
+La première soirée de l'année aura lieu le 24/11/2021 à 19h45 au Break Sportif !
 
 La formule de la soirée vous sera expliquée le jour J.
 

@@ -91,7 +91,7 @@ hasChildren = true
   [[menu.main]]
   parent = "Loisir"
   name = "Soirée squash 24/11/21"
-  url = "loisir/soiree-30-09"
+  url = "loisir/soiree"
   weight = 1
   
 # Dropdown menu

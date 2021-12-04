@@ -1,6 +1,6 @@
 ---
 title: "Informations Association"
-date: 2020-08-30T21:49:48+02:00
+date: 2021-12-04T01:20:48+02:00
 draft: false
 type : "docs"
 description: "Introduction de la vie de l'association"
@@ -27,7 +27,7 @@ N'hésitez pas à regarder le [réglement]({{< relref "g2sligue/rules" >}} "rég
 
 Ponctuellement, des soirées squash sont organisées afin de se retrouver dans un climat amical et sportif avec des formules permettant de rencontrer un grand nombre de personnes autour de "formules squash" différentes selon l'organisateur.
 
-Quelques tournois loisirs seront organisés lors de la saison 2020/2021.
+Quelques tournois loisirs seront organisés lors de la saison 2021/2022.
 
 Une annonce sera faite lors de l'ouverture des inscriptions.
 
@@ -37,9 +37,7 @@ L'association donne accès à la compétition à celles et ceux qui désirent se
 
 Il est possible de participer à des *tournois individuels* (référencés à la Fédération Française de Squash), mais également de participer aux *championnats régionaux de la ligue Rhone-Alpes-Auvergne par équipes*.
 
-Lors de cette saison 2020/2021, 3 équipes sont inscrites
-
-- [Régionale 2 féminine]({{< relref "team/team_0" >}} "G.Squash F1")
+Lors de cette saison 2021/2022, 2 équipes sont inscrites
 
 - [Régionale 2 masculine]({{< relref "team/team_1" >}} "G.Squash 1")
 
@@ -47,9 +45,9 @@ Lors de cette saison 2020/2021, 3 équipes sont inscrites
 
 ## Organisation Tournois officiels
 
-Cette saison 2020-2021, nous avons le privilège d'organiser 2 tournois, au nom de l'association GSquash, au Break sportif d'Échirolles :
+Cette saison 2021-2022, nous avons le privilège d'organiser 2 tournois, au nom de l'association GSquash, au Break sportif d'Échirolles :
 
-- Le championnat de ligue 5ème série le 7 et 8 novembre 2020
+- Le championnat de ligue 5ème série le 9 Octobre 2021
 
 - L'open des Gièrois le 27 et 28 février 2021
 
@@ -59,7 +57,7 @@ Le [service de cordage]({{< relref "association/cordage" >}} "Service Cordage") 
 
 ## Le Bureau
 
-| Président                     | Trésorier                        | Secrétaire                | Capitaine G1  | Capitaine G2     | Capitaine F1   |
-|-------------------------------|----------------------------------|---------------------------|---------------|------------------|----------------|
-| Gaëtan Pluton                 | Guillaume Gambs                  | Jenn Arabadjian-Steffen   | Laurent Braud | Arnaud Chauviere | Sonia          |
-| ![Gaëtan](/images/Gaetan.png) | ![Guillaume](/images/Guigui.png) | ![Jenn](/images/Jenn.png) |               |                  |                |
+| Président                     | Trésorier                        | Secrétaire                | Capitaine G1     | Capitaine G2    |
+|-------------------------------|----------------------------------|---------------------------|------------------|-----------------|
+| Gaëtan Pluton                 | Guillaume Gambs                  | Jenn Arabadjian-Steffen   | Bastien Deshayes | Rolf Clackdoyle |
+| ![Gaëtan](/images/Gaetan.png) | ![Guillaume](/images/Guigui.png) | ![Jenn](/images/Jenn.png) |                  |                 |

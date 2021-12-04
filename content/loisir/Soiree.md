@@ -1,7 +1,7 @@
 ---
 title: "Inscription Soirée squash du 24 novembre 2021"
 date: 2021-11-01T20:00:00+01:00
-draft: false
+draft: true
 tags: [ "soiree", "#Loisir" ]
 type: "docs"
 icon: "ti-calendar"

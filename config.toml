@@ -89,7 +89,7 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Loisir"
-  name = "Soirée squash 24/11/21"
+  name = "Soirée squash"
   url = "loisir/soiree"
   weight = 1
   

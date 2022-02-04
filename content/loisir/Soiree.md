@@ -1,6 +1,6 @@
 ---
-title: "Inscription Soirée squash du 24 novembre 2021"
-date: 2030-11-01T20:00:00+01:00
+title: "Inscription Soirée squash du 02 mars 2022"
+date: 2022-02-01T20:00:00+01:00
 draft: false
 tags: [ "soiree", "#Loisir" ]
 type: "docs"
@@ -8,7 +8,7 @@ icon: "ti-calendar"
 description: "Inscription soirée squash"
 ---
 
-La première soirée de l'année aura lieu le 24/11/2021 à 19h45 au Break Sportif !
+La première soirée de l'année aura lieu le 02/03/2022 à 19h45 au Break Sportif !
 
 La formule de la soirée vous sera expliquée le jour J.
 

@@ -9,8 +9,9 @@ title = "G.Squash"
 disableLanguages = []
 #languageCode = "fr-fr"
 defaultContentLanguage = "fr"
-# google analytics
-googleAnalytics = "UA-176702980-1"
+# google analytics 
+# Comment because I prefere privacy.  
+# googleAnalytics = "UA-176702980-1"
 # unsafe html
 #[markup.goldmark.renderer]
 #unsafe = true

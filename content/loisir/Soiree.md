@@ -16,9 +16,10 @@ Merci d'être présent, en tenue quelques minutes avant le début de la soirée.
 
 Prix de la soirée : 10€
 
-Inscrivez-vous :
+Les inscriptions sont fermé.
 
-{{< gdocs height="700" width="640" src="https://docs.google.com/forms/d/e/1FAIpQLSd58jw5TzB9EDZ3CYsi1ugwftvf3XqJG-3biZF3UV0teBB51g/viewform?embedded=true" >}}
+A ce soir ;)
+
 
 La liste des inscrits :
 

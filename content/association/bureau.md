@@ -49,8 +49,6 @@ Cette saison 2021-2022, nous avons le privilège d'organiser 2 tournois, au nom 
 
 - Le championnat de ligue 5ème série le 9 Octobre 2021
 
-- L'open des Gièrois le 27 et 28 février 2021
-
 ## Cordage
 
 Le [service de cordage]({{< relref "association/cordage" >}} "Service Cordage") est toujours d'actualité : merci de vous adresser à un membre de l'association, ou bien directement à Christophe Spinello pour réparer votre matériel ! (coût 25€)

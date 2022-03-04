@@ -1,6 +1,6 @@
 ---
-title: "Inscription Soirée squash du 02 mars 2022"
-date: 2022-02-01T20:00:00+01:00
+title: "Inscription Soirée squash du xx month 2022"
+date: 2023-02-01T20:00:00+01:00
 draft: false
 tags: [ "soiree", "#Loisir" ]
 type: "docs"
@@ -16,9 +16,7 @@ Merci d'être présent, en tenue quelques minutes avant le début de la soirée.
 
 Prix de la soirée : 10€
 
-Les inscriptions sont fermé.
-
-A ce soir ;)
+{{< gdocs height="700" width="640" src="https://docs.google.com/forms/d/e/1FAIpQLSd58jw5TzB9EDZ3CYsi1ugwftvf3XqJG-3biZF3UV0teBB51g/viewform?embedded=true" >}}
 
 
 La liste des inscrits :

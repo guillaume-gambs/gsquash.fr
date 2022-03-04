@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.gsquash.fr/association/</loc>
+    <lastmod>2021-12-04T01:20:48+02:00</lastmod>
+  </url><url>
+    <loc>https://www.gsquash.fr/</loc>
+    <lastmod>2021-12-04T01:20:48+02:00</lastmod>
+  </url><url>
+    <loc>https://www.gsquash.fr/association/bureau/</loc>
+    <lastmod>2021-12-04T01:20:48+02:00</lastmod>
+  </url><url>
     <loc>https://www.gsquash.fr/tags/#gligue/</loc>
     <lastmod>2021-10-01T13:44:13+01:00</lastmod>
   </url><url>
     <loc>https://www.gsquash.fr/g2sligue/ranking/</loc>
-    <lastmod>2021-10-01T13:44:13+01:00</lastmod>
-  </url><url>
-    <loc>https://www.gsquash.fr/</loc>
     <lastmod>2021-10-01T13:44:13+01:00</lastmod>
   </url><url>
     <loc>https://www.gsquash.fr/tags/g2sligue/</loc>
@@ -28,9 +34,6 @@
   </url><url>
     <loc>https://www.gsquash.fr/g2sligue/poule/</loc>
     <lastmod>2021-09-01T13:37:00+01:00</lastmod>
-  </url><url>
-    <loc>https://www.gsquash.fr/association/</loc>
-    <lastmod>2021-05-16T21:54:52+02:00</lastmod>
   </url><url>
     <loc>https://www.gsquash.fr/tags/protocole_sanitaire/</loc>
     <lastmod>2021-05-16T21:54:52+02:00</lastmod>
@@ -61,9 +64,6 @@
   </url><url>
     <loc>https://www.gsquash.fr/tags/evenements/</loc>
     <lastmod>2020-08-30T21:54:26+02:00</lastmod>
-  </url><url>
-    <loc>https://www.gsquash.fr/association/bureau/</loc>
-    <lastmod>2020-08-30T21:49:48+02:00</lastmod>
   </url><url>
     <loc>https://www.gsquash.fr/team/team_0/</loc>
     <lastmod>2020-08-30T21:49:48+02:00</lastmod>

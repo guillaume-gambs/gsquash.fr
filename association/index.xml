@@ -6,7 +6,19 @@
     <description>Recent content in Associations on G.Squash</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 16 May 2021 21:54:52 +0200</lastBuildDate><atom:link href="https://www.gsquash.fr/association/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Dec 2021 01:20:48 +0200</lastBuildDate><atom:link href="https://www.gsquash.fr/association/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Informations Association</title>
+      <link>https://www.gsquash.fr/association/bureau/</link>
+      <pubDate>Sat, 04 Dec 2021 01:20:48 +0200</pubDate>
+      
+      <guid>https://www.gsquash.fr/association/bureau/</guid>
+      <description>L&amp;rsquo;association G.Squash a vu le jour le 15 mai 2014.
+Cette association initialement basée au Squash Club de Gières, et a vu par le passé quelques déménagements, est désormais basée au Break Sportif d&amp;rsquo;Échirolles.
+Activités de l&amp;rsquo;association Toute l&amp;rsquo;association ainsi que le club vous accueilleront au Break Sportif d&amp;rsquo;Échirolles pour plusieurs animations et pour vous faire partager sa passion pour le Squash.
+Voici maintenant une présentation des activités de l&amp;rsquo;association :</description>
+    </item>
+    
     <item>
       <title>Reprise  du squash</title>
       <link>https://www.gsquash.fr/association/reprise/</link>
@@ -54,18 +66,6 @@ Nouveau cordage Tecnifibre DNAMX 1.20mm sorti en Avril 2016, remplaçant du 305 
       <description>Retrouvez les dates clés de l&amp;rsquo;association.
   Pour importer, vous avez la possibilité de copier coller les urls :
  Gieres 1 :  https://calendar.google.com/calendar/ical/386d7pevhjut60sj2nv0k1gr4k%40group.calendar.google.com/public/basic.ics  Gieres 2 :  https://calendar.google.com/calendar/ical/o98l9lenbgu7bja48tf1nthukc%40group.calendar.google.com/public/basic.ics </description>
-    </item>
-    
-    <item>
-      <title>Informations Association</title>
-      <link>https://www.gsquash.fr/association/bureau/</link>
-      <pubDate>Sun, 30 Aug 2020 21:49:48 +0200</pubDate>
-      
-      <guid>https://www.gsquash.fr/association/bureau/</guid>
-      <description>L&amp;rsquo;association G.Squash a vu le jour le 15 mai 2014.
-Cette association initialement basée au Squash Club de Gières, et a vu par le passé quelques déménagements, est désormais basée au Break Sportif d&amp;rsquo;Échirolles.
-Activités de l&amp;rsquo;association Toute l&amp;rsquo;association ainsi que le club vous accueilleront au Break Sportif d&amp;rsquo;Échirolles pour plusieurs animations et pour vous faire partager sa passion pour le Squash.
-Voici maintenant une présentation des activités de l&amp;rsquo;association :</description>
     </item>
     
   </channel>

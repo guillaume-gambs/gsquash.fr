@@ -45,7 +45,8 @@ Lors de cette saison 2021/2022, 2 équipes sont inscrites
 
 ## Organisation Tournois officiels
 
-Cette saison 2021-2022, nous avons le privilège d'organiser 2 tournois, au nom de l'association GSquash, au Break sportif d'Échirolles :
+Cette saison 2021-2022, nous avons le privilège d'organiser 1 tournois, au nom de l'association GSquash, au Break sportif d'Échirolles :
+
 
 - Le championnat de ligue 5ème série le 9 Octobre 2021
 

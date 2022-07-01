@@ -14,7 +14,7 @@
       
       <guid>https://www.gsquash.fr/g2sligue/ranking/</guid>
       <description>Les résultats des rencontres sont à envoyer à gligue@gsquash.fr
-Rencontres   Classement du mois   Classement annuel   </description>
+Rencontres Classement du mois Classement annuel </description>
     </item>
     
     <item>
@@ -38,8 +38,7 @@ Afin de participer aux frais de fonctionnement, l&amp;rsquo;inscription s&amp;rs
       
       <guid>https://www.gsquash.fr/g2sligue/poule/</guid>
       <description>Les résultats des rencontres sont à envoyer à gligue@gsquash.fr
-Rencontres Voici les poules du mois :
-  </description>
+Rencontres Voici les poules du mois :</description>
     </item>
     
     <item>
@@ -49,8 +48,9 @@ Rencontres Voici les poules du mois :
       
       <guid>https://www.gsquash.fr/g2sligue/rules/</guid>
       <description>Tout membre des associations G.Squash et B2S peuvent participer au championnat annuel loisirs, s&amp;rsquo;ils le souhaitent (pour les autres associations, ou sans association, merci de nous contacter).
-  Une cotisation annuelle de 5€ est demandée pour les joueuses et joueurs hors G.Squash
-  Ce championnat se déroule par poules de 4 joueuses/joueurs (chaque joueuse/joueur rencontre tous les autres joueuses/joueurs de sa poule). Cela représente 3 rencontres à jouer chaque mois.</description>
+Une cotisation annuelle de 5€ est demandée pour les joueuses et joueurs hors G.Squash
+Ce championnat se déroule par poules de 4 joueuses/joueurs (chaque joueuse/joueur rencontre tous les autres joueuses/joueurs de sa poule). Cela représente 3 rencontres à jouer chaque mois.
+Les poules se renouvellent chaque mois (redistribution des poules le 1er de chaque mois).</description>
     </item>
     
   </channel>

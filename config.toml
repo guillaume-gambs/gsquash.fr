@@ -76,11 +76,6 @@ hasChildren = true
   url = "association/licence"
   weight = 4
 
-  [[menu.main]]
-  parent = "Association"
-  name = "Reprise"
-  url = "association/reprise"
-  weight = 5
 
 # Dropdown menu
 [[menu.main]]
@@ -100,11 +95,11 @@ weight = 3
 name = "Competition"
 hasChildren = true
 
-  [[menu.main]]
-  parent = "Competition"
-  name = "Régionale 2 Féminine"
-  url = "team/team_0"
-  weight = 1
+#  [[menu.main]]
+#  parent = "Competition"
+#  name = "Régionale 2 Féminine"
+#  url = "team/team_0"
+#  weight = 1
 
   [[menu.main]]
   parent = "Competition"

@@ -1,6 +1,6 @@
 ---
-title: "Inscription Soirée squash du xx month 2022"
-date: 2023-02-01T20:00:00+01:00
+title: "Inscription Soirée squash"
+date: 2022-08-01T20:00:00+01:00
 draft: false
 tags: [ "soiree", "#Loisir" ]
 type: "docs"
@@ -8,17 +8,31 @@ icon: "ti-calendar"
 description: "Inscription soirée squash"
 ---
 
-La première soirée de l'année aura lieu le 02/03/2022 à 19h45 au Break Sportif !
+Cette année les membres de l'association vont a tour de role organiser la soiré squash mensuelle. Il a été défini pendant l'AGO la répartition des membres suivante :
 
-La formule de la soirée vous sera expliquée le jour J.
+| date              | Organisateur     |
+|-------------------| -----------------|
+| 14 septembre 2022 | Gaëtan           |
+| 12 octobre 2022   | Rolf             |
+| 9 novembre 2022   | ArnaudC          |
+| 14 décembre 2022  | Sonia et Jenn    |
+| 11 janvier 2023   | Bastien          |
+| 8 février 2023    | LaurentF         |
+| 8 mars 2023       | Coline  et Manue |
+| 12 avril 2023     | Jeff             |
+| 10 mai 2023       | Guillaume        |
+
+Les soirées de l'année auront lieu à 19h30 au Break Sportif !
+
+La formule de la soirée vous sera expliquée le jour J par la·e·s grand·e·s organisateur·rice.
 
 Merci d'être présent, en tenue quelques minutes avant le début de la soirée.
 
 Prix de la soirée : 10€
 
-{{< gdocs height="700" width="640" src="https://docs.google.com/forms/d/e/1FAIpQLSd58jw5TzB9EDZ3CYsi1ugwftvf3XqJG-3biZF3UV0teBB51g/viewform?embedded=true" >}}
+{{< gdocs height="990" width="640" src="https://docs.google.com/forms/d/e/1FAIpQLSdZ3a1Gy6kR6G9jsqHkrJNg5L0GFzfk8u6wVYJW7jlGMD87eQ/viewform?embedded=true" >}}
 
 
 La liste des inscrits :
 
-{{< gdocs height="500" width="200" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7BLxvt7zz8ljdgOVwswlH4ws9y8NvscFEepdm9m0Rpk0lCJibbSegtSVP4RQVLvIM2DYfdnGOrJyp/pubhtml?gid=2089043854&single=true&widget=true&headers=false" >}}
+{{< gdocs height="550" width="350" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTl1Ism20pZxF_9yo5hu-QNh_vjyiYoqB-xbBbUyDYz3vED8yPlSlYmH_D8OuhktduG4TSpHf9c6e46/pubhtml?gid=280007812&single=true&widget=true&headers=false" >}}

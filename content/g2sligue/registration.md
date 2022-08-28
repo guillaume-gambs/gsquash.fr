@@ -4,7 +4,7 @@ date: 2021-09-19T20:00:00+01:00
 draft: false
 tags: [ "g2sligue", "#gligue" ]
 type: "docs"
-description: "Inscription 2021-2022"
+description: "Inscription GLigue"
 icon: "ti-calendar"
 ---
 

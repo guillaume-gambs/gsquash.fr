@@ -8,16 +8,19 @@ description: "Équipe Féminine"
 
 ## Équipe
 
-Après deux années sabbatique, G.Squash repart, en fanfare avec son équipe féminine !
+Après deux années sabbatiques, G.Squash repart, en fanfare avec son équipe féminine !
 
 Voici les dates des journées de championnat :
 
 - 19 Novembre 2022
+
 - 3 décembre 2022
+
 - 11 mars 2023
+
 - 1er avril 2023
 
-Les playoffs sont le Samedi 17 juin 2023.
+Les playoffs sont programmés le samedi 17 juin 2023.
 
 ## Les joueuses
 
@@ -25,8 +28,10 @@ Les playoffs sont le Samedi 17 juin 2023.
 
 - Justine
 
-- Karene
+- Pauline
 
-- et des recrutements en cours !
+- Karène
+
+- et des recrutements sont en cours !
 
 Bonne saison à toutes !

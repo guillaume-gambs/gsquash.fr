@@ -10,7 +10,7 @@ description: "Équipe Masculine 2"
 
 Nouvelle saison en Régional 3 !
 
-Le Capitaine Rolf reprend une seconde saison cette année  !!
+Le Capitaine Rolf, embarque une équipe pour une seconde saison !!
 
 ![Calendrier](/images/2022-2023-R3H.png)
 

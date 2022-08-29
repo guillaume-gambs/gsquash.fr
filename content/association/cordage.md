@@ -8,4 +8,4 @@ description: "Information sur le cordage"
 icon: "ti-wand"
 ---
 
-L'association G.Squash ne propose plus le service de cordage. Vous pouvez vous rapprocher du Break Sportif ou de dream tennis ou squash center.
+L'association G.Squash ne propose plus le service de cordage. Vous pouvez vous rapprocher du Break Sportif, de dream tennis ou de squash center.

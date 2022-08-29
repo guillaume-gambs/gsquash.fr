@@ -25,7 +25,7 @@ N'hésitez pas à regarder le [réglement]({{< relref "g2sligue/rules" >}} "rég
 
 ## Soirée squash / Tournoi loisirs
 
-Ponctuellement, des soirées squash sont organisées chaque second mercredi du mois afin de se retrouver dans un climat amical et sportif avec des formules permettant de rencontrer un grand nombre de personnes autour de "formules squash" différentes selon l'organisateur.
+Régulièrement, des soirées squash sont organisées les deuxiemes mercredis du mois, afin de se retrouver dans une ambiance amicale et sportive avec des formules permettant de rencontrer un grand nombre de personnes autour de "formules squash" différentes selon l'organisateur.
 
 Quelques tournois loisirs seront organisés lors de la saison 2022/2023.
 
@@ -37,7 +37,7 @@ L'association donne accès à la compétition à celles et ceux qui désirent se
 
 Il est possible de participer à des *tournois individuels* (référencés à la Fédération Française de Squash), mais également de participer aux *championnats régionaux de la ligue Rhone-Alpes-Auvergne par équipes*.
 
-Lors de cette saison 2022/2023, 3 équipes sont inscrites
+Pour cette saison 2022/2023, 3 équipes sont inscrites
 
 - [Régionale 2 féminine]({{< relref "team/team_0" >}} "G.Squash 0")
 
@@ -47,7 +47,7 @@ Lors de cette saison 2022/2023, 3 équipes sont inscrites
 
 ## Organisation Tournois officiels
 
-Cette saison 2022-2023, nous avons le privilège d'organiser au moins 1 tournois, au nom de l'association GSquash, au Break sportif d'Échirolles le week end du 1 et 2 Octobre 2022 inscription sur [squashnet](http://www.squashnet.fr/index.php?ic_a=655360&eventid=12221)
+Pour cette saison 2022-2023, nous avons le privilège d'organiser un tournoi, au nom de l'association GSquash, au Break sportif d'Échirolles, le week end du 1 et 2 Octobre 2022, inscription sur [squashnet](http://www.squashnet.fr/index.php?ic_a=655360&eventid=12221)
 
 ## Cordage
 

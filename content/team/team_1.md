@@ -20,11 +20,11 @@ CapLolo reprend le flambeau après une brillante année sous l'égide de Bastien
 
 - Arnaud D
 
-- Bastien 
+- Bastien
 
 - Mika
 
-- Nicolas
+- Nico
 
 Ils pourront compter sur les supporters et aussi sur des renforts ( en tout cas des joueurs motivés ) de l'équipe 2 masculine, si besoin !
 

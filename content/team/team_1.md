@@ -1,6 +1,6 @@
 ---
-title: "Team Gières 1"
-date: 2020-08-30T21:49:48+02:00
+title: "Team Masculine Gières 1"
+date: 2022-08-29T21:49:48+02:00
 draft: false
 #type : "docs"
 description: "Équipe Masculine 1"

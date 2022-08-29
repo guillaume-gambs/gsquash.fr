@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Loisirs on G.Squash</title>
+    <link>https://www.gsquash.fr/loisir/</link>
+    <description>Recent content in Loisirs on G.Squash</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 01 Aug 2022 20:00:00 +0100</lastBuildDate><atom:link href="https://www.gsquash.fr/loisir/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inscription Soirée squash</title>
+      <link>https://www.gsquash.fr/loisir/soiree/</link>
+      <pubDate>Mon, 01 Aug 2022 20:00:00 +0100</pubDate>
+      
+      <guid>https://www.gsquash.fr/loisir/soiree/</guid>
+      <description>Cette année les membres de l&amp;rsquo;association vont à tour de rôle organiser la soirée squash mensuelle. Il a été défini pendant l&amp;rsquo;AGO la répartition des membres suivante :
+Date Organisateurs 14 septembre 2022 Gaëtan 12 octobre 2022 Rolf 9 novembre 2022 ArnaudC 14 décembre 2022 Sonia et Jenn 11 janvier 2023 Bastien 8 février 2023 LaurentF 8 mars 2023 Coline et Manue 12 avril 2023 Jeff 10 mai 2023 Guillaume Les soirées de l&amp;rsquo;année auront lieu à 19h30 au Break Sportif !</description>
+    </item>
+    
+  </channel>
+</rss>

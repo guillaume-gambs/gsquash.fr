@@ -6,7 +6,17 @@
     <description>Recent content on G.Squash</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 04 Dec 2021 01:20:48 +0200</lastBuildDate><atom:link href="https://www.gsquash.fr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Aug 2022 20:00:00 +0100</lastBuildDate><atom:link href="https://www.gsquash.fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inscription Soirée squash</title>
+      <link>https://www.gsquash.fr/loisir/soiree/</link>
+      <pubDate>Mon, 01 Aug 2022 20:00:00 +0100</pubDate>
+      
+      <guid>https://www.gsquash.fr/loisir/soiree/</guid>
+      <description>Cette année les membres de l&amp;rsquo;association vont à tour de rôle organiser la soirée squash mensuelle. Il a été défini pendant l&amp;rsquo;AGO la répartition des membres suivante :
+Date Organisateurs 14 septembre 2022 Gaëtan 12 octobre 2022 Rolf 9 novembre 2022 ArnaudC 14 décembre 2022 Sonia et Jenn 11 janvier 2023 Bastien 8 février 2023 LaurentF 8 mars 2023 Coline et Manue 12 avril 2023 Jeff 10 mai 2023 Guillaume Les soirées de l&amp;rsquo;année auront lieu à 19h30 au Break Sportif !</description>
+    </item>
+    
     <item>
       <title>Informations Association</title>
       <link>https://www.gsquash.fr/association/bureau/</link>
@@ -20,7 +30,7 @@ Voici maintenant une présentation des activités de l&amp;rsquo;association :</
     </item>
     
     <item>
-      <title>Classement G2S Ligue 2021/2022</title>
+      <title>Classement G2S Ligue</title>
       <link>https://www.gsquash.fr/g2sligue/ranking/</link>
       <pubDate>Fri, 01 Oct 2021 13:44:13 +0100</pubDate>
       
@@ -36,15 +46,15 @@ Rencontres Classement du mois Classement annuel </description>
       
       <guid>https://www.gsquash.fr/g2sligue/registration/</guid>
       <description>La G2SLigue existe depuis plusieurs années maintenant !
-Si vous souhaitez vous aussi participer, inscrivez-vous avec le formulaire ci-dessous.
-Comme toujours, cette compétition est ouverte aux squasheuses et squasheurs de toutes les associations !
+Si vous souhaitez, vous aussi participer, inscrivez-vous avec le formulaire ci-dessous.
+Comme toujours, cette compétition est ouverte aux squasheuses et squasheurs de toutes les associations ou sans association aussi !
 Il suffit d&amp;rsquo;être disponible pour faire 3 matchs par mois.
 Cette année, ArnaudA se chargera de mettre à jour les résultats que vous enverrez à l&amp;rsquo;adresse gligue@gsquash.fr
 Afin de participer aux frais de fonctionnement, l&amp;rsquo;inscription s&amp;rsquo;élève à 5€ pour l&amp;rsquo;année, pour les squasheuses et squasheurs, qui ne sont pas adhérents G.</description>
     </item>
     
     <item>
-      <title>Poule G2S Ligue 2021/2022</title>
+      <title>Poule G2S Ligue</title>
       <link>https://www.gsquash.fr/g2sligue/poule/</link>
       <pubDate>Wed, 01 Sep 2021 13:37:00 +0100</pubDate>
       
@@ -72,13 +82,7 @@ Si vous avez un certificat médical de moins de 3 ans, nul besoin d&amp;rsquo;en
       <pubDate>Sun, 30 Aug 2020 21:54:52 +0200</pubDate>
       
       <guid>https://www.gsquash.fr/association/cordage/</guid>
-      <description>L&amp;rsquo;association G.Squash propose un service de cordage pour votre raquette de squash.
-La machine utilisée est une STRINGER 8700 électronique.
-Le cordage proposé est celui-ci :
-Tecnifibre DNAMX Gauge 1.20 (Noir) :
-Nouveau cordage Tecnifibre DNAMX 1.20mm sorti en Avril 2016, remplaçant du 305 plus dont il reprend les caractéristiques de jeu. Confort et durabilité. Un cordage qui ne demande aucun temps d&amp;rsquo;adaptation.
-Prix du cordage : 15 euros
-Coût de la pose : 10 euros</description>
+      <description>L&amp;rsquo;association G.Squash ne propose plus le service de cordage. Vous pouvez vous rapprocher du Break Sportif, de dream tennis ou de squash center.</description>
     </item>
     
     <item>
@@ -93,21 +97,40 @@ Gieres 1 : https://calendar.google.com/calendar/ical/386d7pevhjut60sj2nv0k1gr4k%
     </item>
     
     <item>
+      <title>Régional 2 Féminine</title>
+      <link>https://www.gsquash.fr/team/team_0/</link>
+      <pubDate>Sun, 30 Aug 2020 21:49:48 +0200</pubDate>
+      
+      <guid>https://www.gsquash.fr/team/team_0/</guid>
+      <description>Équipe Après deux années sabbatiques, G.Squash repart, en fanfare avec son équipe féminine !
+Voici les dates des journées de championnat :
+19 Novembre 2022
+3 décembre 2022
+11 mars 2023
+1er avril 2023
+Les playoffs sont programmés le samedi 17 juin 2023.
+Les joueuses Sonia La capitaine
+Justine
+Pauline
+Karène
+et des recrutements sont en cours !
+Bonne saison à toutes !</description>
+    </item>
+    
+    <item>
       <title>Team Gières 1</title>
       <link>https://www.gsquash.fr/team/team_1/</link>
       <pubDate>Sun, 30 Aug 2020 21:49:48 +0200</pubDate>
       
       <guid>https://www.gsquash.fr/team/team_1/</guid>
       <description>Équipe Nouvelle saison en Régional 2 !
-Bastien prend le relai de notre CapLolo qui tenait la barre depuis plusieurs saisons ! Merci CapLolo !
-Les joueurs Laurent B
+CapLolo reprend le flambeau après une brillante année sous l&amp;rsquo;égide de Bastien, CapLolo qui tenait la barre depuis plusieurs saisons reprend donc du service ! Merci Bastien, Merci CapLolo !
+Les joueurs Laurent B (capitaine)
 Arnaud D
-Bastien (capitaine)
-Christophe
+Bastien
 Mika
-Nicolas
-Ils pourront compter sur les supporters et aussi sur des renforts (en tout cas des joueurs motivés) de l&amp;rsquo;équipe 2 masculine, si besoin !
-Bonne saison à tous !</description>
+Nico
+Ils pourront compter sur les supporters et aussi sur des renforts ( en tout cas des joueurs motivés ) de l&amp;rsquo;équipe 2 masculine, si besoin !</description>
     </item>
     
     <item>
@@ -117,9 +140,9 @@ Bonne saison à tous !</description>
       
       <guid>https://www.gsquash.fr/team/team_2/</guid>
       <description>Équipe Nouvelle saison en Régional 3 !
-Nouveau Capitaine cette année avec notre Rankenstein Guy !!
-Les joueurs Arnaud C
-Arnaud A
+Le Capitaine Rolf, embarque une équipe pour une seconde saison !!
+Les joueurs Arnaud A
+Arnaud C
 Gaëtan
 Guillaume
 Jeff

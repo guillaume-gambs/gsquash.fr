@@ -18,13 +18,15 @@ Cette année les membres de l'association vont à tour de rôle organiser la soi
 | 14 décembre 2022  | Sonia et Jenn    |
 | 11 janvier 2023   | Bastien          |
 | 8 février 2023    | LaurentF         |
-| 8 mars 2023       | Coline  et Manue |
+| 8 mars 2023       | Coline et Manue |
 | 12 avril 2023     | Jeff             |
 | 10 mai 2023       | Guillaume        |
 
 Les soirées de l'année auront lieu à 19h30 au Break Sportif !
 
 La formule de la soirée vous sera expliquée le jour J par la·e·s grand·e·s organisateur·rice·s.
+
+Ces évènements sont ouverts à toutes les personnes motivées (faisant partie de l'association ou non) !
 
 Merci d'être présent, en tenue quelques minutes avant le démarrage de la soirée.
 

@@ -76,6 +76,12 @@ hasChildren = true
   url = "association/licence"
   weight = 4
 
+# Dropdown menu
+[[menu.main]]
+name = "hommage Christophe"
+url = "chris2022"
+weight = 2
+hasChildren = false
 
 # Dropdown menu
 [[menu.main]]
@@ -83,11 +89,11 @@ name = "Loisir"
 weight = 2
 hasChildren = true
 
-  # [[menu.main]]
-  # parent = "Loisir"
-  # name = "Soirée squash"
-  # url = "loisir/soiree"
-  # weight = 1
+  [[menu.main]]
+  parent = "Loisir"
+  name = "Soirée squash"
+  url = "loisir/soiree"
+  weight = 1
   
 # Dropdown menu
 [[menu.main]]

@@ -4,15 +4,15 @@ date: 2021-09-19T20:00:00+01:00
 draft: false
 tags: [ "g2sligue", "#gligue" ]
 type: "docs"
-description: "Inscription 2021-2022"
+description: "Inscription GLigue"
 icon: "ti-calendar"
 ---
 
 La G2SLigue existe depuis plusieurs années maintenant !
 
-Si vous souhaitez vous aussi participer, inscrivez-vous avec le formulaire ci-dessous.
+Si vous souhaitez, vous aussi participer, inscrivez-vous avec le formulaire ci-dessous.
 
-Comme toujours, cette compétition est ouverte aux squasheuses et squasheurs de toutes les associations !
+Comme toujours, cette compétition est ouverte aux squasheuses et squasheurs de toutes les associations ou sans association aussi !
 
 Il suffit d'être disponible pour faire 3 matchs par mois.
 

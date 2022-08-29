@@ -10,15 +10,15 @@ description: "Équipe Masculine 2"
 
 Nouvelle saison en Régional 3 !
 
-Nouveau Capitaine cette année avec notre Rankenstein Guy !!
+Le Capitaine Rolf, embarque une équipe pour une seconde saison !!
 
-![Calendrier](/images/2021-2022-R3H.png)
+![Calendrier](/images/2022-2023-R3H.png)
 
 ## Les joueurs
 
-- Arnaud C 
-
 - Arnaud A
+
+- Arnaud C
 
 - Gaëtan
 

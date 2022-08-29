@@ -10,24 +10,22 @@ description: "Équipe Masculine 1"
 
 Nouvelle saison en Régional 2 !
 
-Bastien prend le relai de notre CapLolo qui tenait la barre depuis plusieurs saisons ! Merci CapLolo !
+CapLolo reprend le flambeau après une brillante année sous l'égide de Bastien, CapLolo qui tenait la barre depuis plusieurs saisons reprend donc du service ! Merci Bastien, Merci  CapLolo !
 
-![Calendrier](/images/2021-2022-R2H.png)
+![Calendrier](/images/2022-2023-R2H.png)
 
 ## Les joueurs
 
-- Laurent B
+- Laurent B (capitaine)
 
 - Arnaud D
 
-- Bastien (capitaine)
-
-- Christophe
+- Bastien
 
 - Mika
 
-- Nicolas
+- Nico
 
-Ils pourront compter sur les supporters et aussi sur des renforts (en tout cas des joueurs motivés) de l'équipe 2 masculine, si besoin !
+Ils pourront compter sur les supporters et aussi sur des renforts ( en tout cas des joueurs motivés ) de l'équipe 2 masculine, si besoin !
 
 Bonne saison à tous !

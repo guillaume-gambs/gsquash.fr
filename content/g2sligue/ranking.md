@@ -1,5 +1,5 @@
 ---
-title: "Classement G2S Ligue 2021/2022"
+title: "Classement G2S Ligue"
 date: 2021-10-01T13:44:13+01:00
 draft: false
 tags: [ "g2sligue", "#gligue" ]

@@ -30,7 +30,7 @@ Les playoffs sont programmés le samedi 17 juin 2023.
 
 - Pauline
 
-- Karène
+- Karen
 
 - et des recrutements sont en cours !
 

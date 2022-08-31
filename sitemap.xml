@@ -2,8 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.gsquash.fr/tags/#loisir/</loc>
+    <lastmod>2022-08-29T23:00:00+01:00</lastmod>
+  </url><url>
     <loc>https://www.gsquash.fr/</loc>
-    <lastmod>2022-08-29T21:49:48+02:00</lastmod>
+    <lastmod>2022-08-29T23:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.gsquash.fr/chris2022/</loc>
+    <lastmod>2022-08-29T23:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.gsquash.fr/tags/soiree/</loc>
+    <lastmod>2022-08-29T23:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.gsquash.fr/tags/</loc>
+    <lastmod>2022-08-29T23:00:00+01:00</lastmod>
   </url><url>
     <loc>https://www.gsquash.fr/team/team_1/</loc>
     <lastmod>2022-08-29T21:49:48+02:00</lastmod>
@@ -13,18 +25,6 @@
   </url><url>
     <loc>https://www.gsquash.fr/team/</loc>
     <lastmod>2022-08-29T21:49:48+02:00</lastmod>
-  </url><url>
-    <loc>https://www.gsquash.fr/tags/#loisir/</loc>
-    <lastmod>2022-08-28T23:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://www.gsquash.fr/chris2022/</loc>
-    <lastmod>2022-08-28T23:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://www.gsquash.fr/tags/soiree/</loc>
-    <lastmod>2022-08-28T23:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://www.gsquash.fr/tags/</loc>
-    <lastmod>2022-08-28T23:00:00+01:00</lastmod>
   </url><url>
     <loc>https://www.gsquash.fr/loisir/soiree/</loc>
     <lastmod>2022-08-01T20:00:00+01:00</lastmod>

@@ -1,6 +1,6 @@
 ---
 title: "Inscription Soirée hommage Christophe"
-date: 2022-08-28T23:00:00+01:00
+date: 2022-08-29T23:00:00+01:00
 draft: false
 tags: [ "soiree", "#Loisir" ]
 type: "docs"

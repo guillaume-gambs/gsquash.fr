@@ -1,11 +1,11 @@
 ---
-title: "Inscription Soirée hommage Christophe"
+title: "Hommage à Christophe Spinello et Inscription à la soirée"
 date: 2022-08-29T23:00:00+01:00
 draft: false
 tags: [ "soiree", "#Loisir" ]
 type: "docs"
 icon: "ti-calendar"
-description: "Inscription soirée"
+description: "Hommage à Christophe Spinello et Inscription à la soirée"
 ---
 
 Vous pouvez vous inscrire dans ce formulaire qu'on puisse organiser au mieux la soirée pour rendre hommage à notre ancien président et ami Christophe Spinello qui nous a quitté en juin dernier :

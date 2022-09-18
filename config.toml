@@ -44,6 +44,8 @@ font_family = "lato" # Choose font family from : https://fonts.google.com/
 [[params.social]]
 icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
 link = "https://www.facebook.com/groups/gsquash38/"
+icon = "ti-instagram"
+link = "https://www.instagram.com/gsquash38/"
 
 
 ################################# navigation ################################

@@ -40,12 +40,12 @@ font_family = "lato" # Choose font family from : https://fonts.google.com/
 # contact form action
 #contact_form_action = "#" # contact form works with : https://formspree.io
 
+
 ############################## social links ##############################
 [[params.social]]
 icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
 link = "https://www.facebook.com/groups/gsquash38/"
 name = "Facebook"
-
 
 [[params.social]]
 icon = "ti-instagram"

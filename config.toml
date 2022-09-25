@@ -162,7 +162,7 @@ languageName = "Fr"
 languageCode = "fr-fr"
 weight = 2
 home = "Accueil"
-#copyright = "Ce site est généré avec Hugo v{{ .Site.Hugo.Version }}. Avec le theme Dot."
+#copyright = "Ce site est généré avec Hugo v{{ .Site.Hugo.Version }}. Avec le theme Dot maintenu par ThemeFisher."
 
 # banner
 [Languages.fr.params.banner]

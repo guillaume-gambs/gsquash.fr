@@ -40,6 +40,17 @@ hugo server -D
 
 All modified files are detected and recompiled. The site is automatically refreshed and can be accessed to the address [local address](http://localhost:1313/docs/).
 
+## View PDF
+
+```
+git clone https://github.com/anvithks/hugo-embed-pdf-shortcode.git anvithks/hugo-embed-pdf-shortcode\n
+
+cp anvithks/hugo-embed-pdf-shortcode/layouts/shortcodes/embed-pdf.html guillaume-gambs/gsquash.fr/layouts/shortcodes/.
+
+cp -R anvithks/hugo-embed-pdf-shortcode/static/js/pdf-js  guillaume-gambs/gsquash.fr/static/js/
+
+```
+
 ## ORIGINAL README
 
 

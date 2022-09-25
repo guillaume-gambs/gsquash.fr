@@ -12,13 +12,14 @@ Nouvelle saison en Régional 3 !
 
 Le Capitaine Rolf, embarque une équipe pour une seconde saison !!
 
-![Calendrier](/images/2022-2023-R3H.png)
+[Télécharger le Calendrier en PDF](/images/AURA_INTERCLUBS_2022_2023_R3H_Poule_B.pdf)
+{{< embed-pdf url="/images/AURA_INTERCLUBS_2022_2023_R3H_Poule_B.pdf" hidePaginator="true" >}}
 
 ## Les joueurs
 
 - Arnaud A
 
-- Arnaud C
+- Boris M
 
 - Gaëtan
 

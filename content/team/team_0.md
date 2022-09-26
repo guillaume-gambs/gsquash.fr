@@ -10,6 +10,10 @@ description: "Équipe Féminine"
 
 Après deux années sabbatiques, G.Squash repart, en fanfare avec son équipe féminine !
 
+[Télécharger le Calendrier en PDF](/images/AURA_INTERCLUBS_2022_2023-R2F_Poule_A.pdf)
+{{< embed-pdf url="/images/AURA_INTERCLUBS_2022_2023-R2F_Poule_A.pdf"  hidePaginator="true" >}}
+
+
 Voici les dates des journées de championnat :
 
 - 19 Novembre 2022

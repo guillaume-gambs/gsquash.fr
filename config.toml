@@ -85,13 +85,6 @@ hasChildren = true
 
 # Dropdown menu
 [[menu.main]]
-name = "Hommage Christophe"
-url = "chris2022"
-weight = 2
-hasChildren = false
-
-# Dropdown menu
-[[menu.main]]
 name = "Loisir"
 weight = 2
 hasChildren = true

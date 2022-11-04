@@ -36,6 +36,8 @@ Les playoffs sont programmés le samedi 17 juin 2023.
 
 - Karen
 
+- Emmanuelle
+
 - et des recrutements sont en cours !
 
 Bonne saison à toutes !

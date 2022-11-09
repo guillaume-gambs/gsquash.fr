@@ -37,3 +37,6 @@ Prix de la soirée : 10€
 La liste des inscrits :
 
 {{< gdocs height="590" width="375" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTl1Ism20pZxF_9yo5hu-QNh_vjyiYoqB-xbBbUyDYz3vED8yPlSlYmH_D8OuhktduG4TSpHf9c6e46/pubhtml?gid=280007812&single=true&widget=false&headers=false" >}}
+
+___
+Si le formulaire ne fonctionne pas, vous pouvez aussi suivre ce [lien](https://docs.google.com/forms/d/e/1FAIpQLSdZ3a1Gy6kR6G9jsqHkrJNg5L0GFzfk8u6wVYJW7jlGMD87eQ/viewform)

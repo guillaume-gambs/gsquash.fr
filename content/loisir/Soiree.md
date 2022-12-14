@@ -15,7 +15,7 @@ Cette année les membres de l'association vont à tour de rôle organiser la soi
 | ~~14 septembre 2022~~ | ~~Gaëtan~~       |
 | ~~12 octobre 2022~~   | ~~Rolf~~         |
 | ~~9 novembre 2022~~   | ~~ArnaudC~~      |
-| 14 décembre 2022      | Sonia et Jenn    |
+| ~~14 décembre 2022~~  | ~~Sonia et Jenn~~ |
 | 11 janvier 2023       | Bastien          |
 | 8 février 2023        | LaurentF         |
 | 8 mars 2023           | Coline et Manue  |

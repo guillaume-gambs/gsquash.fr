@@ -1,6 +1,6 @@
 ---
 title: "Inscription Soirée squash"
-date: 2022-08-01T20:00:00+01:00
+date: 2023-04-11T20:00:00+01:00
 draft: false
 tags: [ "soiree", "#Loisir" ]
 type: "docs"
@@ -18,8 +18,8 @@ Cette année les membres de l'association vont à tour de rôle organiser la soi
 | ~~14 décembre 2022~~  | ~~Sonia et Jenn~~   |
 | ~~11 janvier 2023~~   | ~~Bastien~~         |
 | ~~8 février 2023~~    | ~~LaurentF~~        |
-| 8 mars 2023           | Coline et Manue     |
-| 12 avril 2023         | Jeff                |
+| ~~8 mars 2023~~       | ~~Coline et Manue~~ |
+| ~~12 avril 2023~~     | ~~Jeff~~            |
 | 10 mai 2023           | Guillaume           |
 
 Les soirées de l'année auront lieu normalement à 19h30 au Break Sportif ! Si changement de programme vous serez prévenu :)

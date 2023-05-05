@@ -1,6 +1,6 @@
 ---
 title: "Inscription Soirée squash"
-date: 2023-04-11T20:00:00+01:00
+date: 2023-04-01T20:00:00+02:00
 draft: false
 tags: [ "soiree", "#Loisir" ]
 type: "docs"

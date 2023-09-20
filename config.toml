@@ -83,6 +83,12 @@ hasChildren = true
   url = "association/licence"
   weight = 4
 
+[[menu.main]]
+name = "Inscription soirée Étape Gièroise 2023"
+url = "egs2023"
+weight = 2
+hasChildren = false
+
 # Dropdown menu
 [[menu.main]]
 name = "Loisir"
